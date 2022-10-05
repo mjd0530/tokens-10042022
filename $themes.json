@@ -1,0 +1,41 @@
+[
+  {
+    "id": "85685b8c13983f2d7295cddb1292a50017a9a3eb",
+    "name": "fuji light",
+    "selectedTokenSets": {
+      "ant tokens dark": "disabled",
+      "ant tokens light": "enabled",
+      "global tw": "source",
+      "fuji dark blue": "disabled",
+      "fuji dark cyan": "disabled",
+      "fuji light cyan": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "631e058b931d7230789c031178829940066427a8",
+    "name": "fuji dark cyan",
+    "selectedTokenSets": {
+      "ant tokens dark": "source",
+      "ant tokens light": "disabled",
+      "global tw": "disabled",
+      "fuji dark blue": "disabled",
+      "fuji dark cyan": "enabled",
+      "fuji light cyan": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "cc1b93c3c8ad1f413a72a87e83238990f645ef50",
+    "name": "fuji dark blue",
+    "selectedTokenSets": {
+      "ant tokens dark": "source",
+      "ant tokens light": "disabled",
+      "global tw": "disabled",
+      "fuji dark blue": "enabled",
+      "fuji dark cyan": "disabled",
+      "fuji light cyan": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

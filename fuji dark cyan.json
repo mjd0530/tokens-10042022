@@ -1,0 +1,34 @@
+{
+  "background": {
+    "primary": {
+      "value": "{Cyan.cyan-5}",
+      "type": "color"
+    }
+  },
+  "text": {
+    "onPrimary": {
+      "value": "{Gray.gray-10}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{Cyan.cyan-5}",
+      "type": "color"
+    }
+  },
+  "boarder": {
+    "primary": {
+      "value": "{Cyan.cyan-5}",
+      "type": "color"
+    }
+  },
+  "icon": {
+    "onPrimary": {
+      "value": "{Extra.white}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{Cyan.cyan-5}",
+      "type": "color"
+    }
+  }
+}
