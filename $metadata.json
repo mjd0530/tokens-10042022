@@ -1,5 +1,10 @@
 {
   "tokenSetOrder": [
-    "ant global"
+    "ant global",
+    "ant dark",
+    "ant light",
+    "ant tokens dark",
+    "ant tokens light",
+    "global tw"
   ]
 }
