@@ -1,7 +1,5 @@
 {
   "tokenSetOrder": [
-    "ant global",
-    "ant light",
-    "ant dark"
+    "ant global"
   ]
 }
