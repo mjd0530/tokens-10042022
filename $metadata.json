@@ -5,6 +5,9 @@
     "ant_light",
     "ant_dark",
     "tw_global",
-    "cake"
+    "cake",
+    "ant tokens dark",
+    "ant tokens light",
+    "global tw"
   ]
 }
