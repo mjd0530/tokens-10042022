@@ -3,6 +3,14 @@
     "value": "2",
     "type": "borderWidth"
   },
+  "40": {
+    "value": "0.4",
+    "type": "opacity"
+  },
+  "60": {
+    "value": "0.6",
+    "type": "opacity"
+  },
   "100": {
     "value": "100",
     "type": "borderRadius"
@@ -41,7 +49,7 @@
   },
   "secondary": {
     "background": {
-      "value": "{Gray.gray-3}",
+      "value": "{Gray.gray-4}",
       "type": "color"
     },
     "background_hover": {
@@ -55,6 +63,10 @@
       "type": "color"
     },
     "onSecondary": {
+      "value": "{Gray.gray-10}",
+      "type": "color"
+    },
+    "default": {
       "value": "{Gray.gray-10}",
       "type": "color"
     }
