@@ -119,11 +119,11 @@
       "type": "color"
     },
     "brand": {
-      "value": "{Daybreak Blue.blue-7}",
+      "value": "{Daybreak Blue.blue-8}",
       "type": "color"
     },
     "brand_onHover": {
-      "value": "{Daybreak Blue.blue-8}",
+      "value": "{Daybreak Blue.blue-9}",
       "type": "color"
     },
     "brand_disabled": {
@@ -131,7 +131,7 @@
       "type": "color"
     },
     "onBrand": {
-      "value": "{Gray.gray-10}",
+      "value": "#FFFFFF",
       "type": "color"
     }
   },
@@ -199,7 +199,7 @@
       "type": "color"
     },
     "text": {
-      "value": "{Daybreak Blue.blue-7}",
+      "value": "{Daybreak Blue.blue-8}",
       "type": "color"
     },
     "boarder_onHover": {
