@@ -61,6 +61,10 @@
     "disabled": {
       "value": "{Gray.gray-6}",
       "type": "color"
+    },
+    "error": {
+      "value": "{Dust Red.red-7}",
+      "type": "color"
     }
   },
   "secondary": {
@@ -85,6 +89,10 @@
     "default": {
       "value": "{Gray.gray-10}",
       "type": "color"
+    },
+    "disabled": {
+      "value": "{Gray.gray-6}",
+      "type": "color"
     }
   },
   "background": {
@@ -95,11 +103,19 @@
     "disabled": {
       "value": "{Gray.gray-3}",
       "type": "color"
+    },
+    "canvas": {
+      "value": "{Gray.gray-2}",
+      "type": "color"
     }
   },
   "boarder": {
     "lightest": {
       "value": "{Gray.gray-5}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{Dust Red.red-7}",
       "type": "color"
     }
   }
