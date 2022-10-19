@@ -87,7 +87,7 @@
       "type": "color"
     },
     "onBrand": {
-      "value": "{Gray.gray-10}",
+      "value": "{Gray.gray-1}",
       "type": "color"
     }
   },
@@ -120,6 +120,10 @@
     },
     "brand": {
       "value": "{Daybreak Blue.blue-7}",
+      "type": "color"
+    },
+    "brand_onHover": {
+      "value": "{Daybreak Blue.blue-8}",
       "type": "color"
     },
     "brand_disabled": {
@@ -180,10 +184,26 @@
       "lightest": {
         "value": "{Daybreak Blue.blue-1}",
         "type": "color"
+      },
+      "onHover": {
+        "value": "{Daybreak Blue.blue-8}",
+        "type": "color"
       }
     },
     "secondary": {
       "value": "{Sunset Orange.orange-6}",
+      "type": "color"
+    },
+    "boarder": {
+      "value": "{Daybreak Blue.blue-7}",
+      "type": "color"
+    },
+    "text": {
+      "value": "{Daybreak Blue.blue-7}",
+      "type": "color"
+    },
+    "boarder_onHover": {
+      "value": "{Primary.primary-8}",
       "type": "color"
     }
   }
