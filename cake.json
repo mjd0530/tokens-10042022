@@ -89,6 +89,10 @@
     "onBrand": {
       "value": "{Gray.gray-1}",
       "type": "color"
+    },
+    "ondark": {
+      "value": "{Gray.gray-2}",
+      "type": "color"
     }
   },
   "secondary": {
@@ -154,6 +158,14 @@
     },
     "light": {
       "value": "{Gray.gray-4}",
+      "type": "color"
+    },
+    "darker": {
+      "value": "{Gray.gray-5}",
+      "type": "color"
+    },
+    "darkest": {
+      "value": "{Gray.gray-10}",
       "type": "color"
     }
   },
