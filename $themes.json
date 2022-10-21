@@ -1,7 +1,37 @@
 [
   {
+    "id": "4a8a1d8eeaa0433de4df95c90910952f34593621",
+    "name": "BD",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "ant light": "disabled",
+      "ant dark": "enabled",
+      "tailwind": "disabled",
+      "radix": "disabled",
+      "radix dark": "disabled",
+      "A": "disabled",
+      "B": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "0e701d580dceccd7f995d09500141b0aff74696d",
+    "name": "BL",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "ant light": "enabled",
+      "ant dark": "disabled",
+      "tailwind": "disabled",
+      "radix": "disabled",
+      "radix dark": "disabled",
+      "A": "disabled",
+      "B": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "2e8987e5942922d7483a7f24741ab6a60e31bed5",
-    "name": "ALLB",
+    "name": "AL",
     "selectedTokenSets": {
       "core": "enabled",
       "ant dark": "disabled",
@@ -9,14 +39,14 @@
       "radix": "disabled",
       "radix dark": "disabled",
       "A": "source",
-      "B": "disabled",
-      "tailwind": "disabled"
+      "tailwind": "disabled",
+      "B": "disabled"
     },
     "$figmaStyleReferences": {}
   },
   {
     "id": "6422d58441bd5c440a4ba87d0afd93c971fc9941",
-    "name": "ADLB",
+    "name": "AD",
     "selectedTokenSets": {
       "core": "enabled",
       "ant dark": "enabled",
@@ -24,8 +54,8 @@
       "radix": "disabled",
       "radix dark": "disabled",
       "A": "source",
-      "B": "disabled",
-      "tailwind": "disabled"
+      "tailwind": "disabled",
+      "B": "disabled"
     },
     "$figmaStyleReferences": {}
   }
