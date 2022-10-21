@@ -31,6 +31,10 @@
     "icon": {
       "value": "{Cyan.cyan-8}",
       "type": "color"
+    },
+    "": {
+      "value": "{Cyan.cyan-8}",
+      "type": "color"
     }
   },
   "text": {
@@ -87,7 +91,7 @@
       "type": "color"
     },
     "primary": {
-      "value": "{Cyan.cyan-7}",
+      "value": "{primary.}",
       "type": "color"
     },
     "onPrimary": {
@@ -209,7 +213,7 @@
       "type": "color"
     },
     "primary": {
-      "value": "{Cyan.cyan-8}",
+      "value": "{primary.}",
       "type": "color"
     },
     "primary-hover": {
@@ -222,6 +226,10 @@
     },
     "secondary-onHover": {
       "value": "{Slate.gray-4}",
+      "type": "color"
+    },
+    "secondary-darker": {
+      "value": "{Slate.gray-5}",
       "type": "color"
     },
     "brand": {
