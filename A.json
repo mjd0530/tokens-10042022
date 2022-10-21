@@ -1,0 +1,220 @@
+{
+  "primary": {
+    "background": {
+      "default": {
+        "value": "{Cyan.cyan-8}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{Cyan.cyan-9}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{Cyan.cyan-5}",
+        "type": "color"
+      },
+      "lightest": {
+        "value": "{Cyan.cyan-1}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "default": {
+        "value": "{Slate.gray-1}",
+        "type": "color"
+      }
+    },
+    "boarder": {
+      "value": "{Golden Purple.purple-6}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Cyan.cyan-8}",
+      "type": "color"
+    }
+  },
+  "text": {
+    "default": {
+      "value": "{slate.900}",
+      "type": "color"
+    },
+    "lightest": {
+      "value": "{Slate.gray-7}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{Slate.gray-6}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{Dust Red.red-7}",
+      "type": "color"
+    },
+    "onBrand": {
+      "value": "{Slate.gray-1}",
+      "type": "color"
+    },
+    "ondark": {
+      "value": "{Slate.gray-2}",
+      "type": "color"
+    }
+  },
+  "secondary": {
+    "background": {
+      "value": "{Slate.gray-4}",
+      "type": "color"
+    },
+    "background_hover": {
+      "value": "{Slate.gray-5}",
+      "type": "color"
+    },
+    "background_darker": {
+      "value": "{Slate.gray-6}",
+      "type": "color"
+    }
+  },
+  "icon": {
+    "default": {
+      "value": "{slate.900}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{Slate.gray-6}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{bg.primary}",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{Slate.gray-1}",
+      "type": "color"
+    },
+    "onSecondary": {
+      "value": "{Slate.gray-10}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{Daybreak Blue.blue-8}",
+      "type": "color"
+    },
+    "brand_onHover": {
+      "value": "{Daybreak Blue.blue-9}",
+      "type": "color"
+    },
+    "brand_disabled": {
+      "value": "{Daybreak Blue.blue-5}",
+      "type": "color"
+    },
+    "onBrand": {
+      "value": "#FFFFFF",
+      "type": "color"
+    }
+  },
+  "background": {
+    "default": {
+      "value": "{Slate.gray-1}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{Slate.gray-3}",
+      "type": "color"
+    },
+    "canvas": {
+      "value": "{Slate.gray-2}",
+      "type": "color"
+    },
+    "lightest": {
+      "value": "{Slate.gray-3}",
+      "type": "color"
+    },
+    "light": {
+      "value": "{Slate.gray-4}",
+      "type": "color"
+    },
+    "darker": {
+      "value": "{Slate.gray-5}",
+      "type": "color"
+    },
+    "darkest": {
+      "value": "{Slate.gray-10}",
+      "type": "color"
+    }
+  },
+  "boarder": {
+    "lightest": {
+      "value": "{Slate.gray-1}",
+      "type": "color"
+    },
+    "light": {
+      "value": "{Slate.gray-5}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{Dust Red.red-7}",
+      "type": "color"
+    }
+  },
+  "brand": {
+    "background": {
+      "default": {
+        "value": "{Daybreak Blue.blue-7}",
+        "type": "color"
+      },
+      "darker": {
+        "value": "{Daybreak Blue.blue-8}",
+        "type": "color"
+      },
+      "lightest": {
+        "value": "{Daybreak Blue.blue-1}",
+        "type": "color"
+      },
+      "onHover": {
+        "value": "{Daybreak Blue.blue-8}",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "value": "{Sunset Orange.orange-6}",
+      "type": "color"
+    },
+    "boarder": {
+      "value": "{Daybreak Blue.blue-7}",
+      "type": "color"
+    },
+    "text": {
+      "value": "{Daybreak Blue.blue-8}",
+      "type": "color"
+    },
+    "boarder_onHover": {
+      "value": "{Primary.primary-8}",
+      "type": "color"
+    }
+  },
+  "bg": {
+    "canvas": {
+      "value": "{slate.100}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{cyan.700}",
+      "type": "color"
+    },
+    "primary-hover": {
+      "value": "{cyan.900}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{slate.200}",
+      "type": "color"
+    },
+    "secondary-onHover": {
+      "value": "{slate.300}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{blue.700}",
+      "type": "color"
+    }
+  }
+}

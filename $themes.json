@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "6422d58441bd5c440a4ba87d0afd93c971fc9941",
+    "name": "ADLB",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "ant dark": "enabled",
+      "ant light": "disabled",
+      "radix": "disabled",
+      "radix dark": "disabled",
+      "A": "source",
+      "B": "disabled",
+      "tailwind": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "2e8987e5942922d7483a7f24741ab6a60e31bed5",
+    "name": "ALLB",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "ant dark": "disabled",
+      "ant light": "enabled",
+      "radix": "disabled",
+      "radix dark": "disabled",
+      "A": "source",
+      "B": "disabled",
+      "tailwind": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
