@@ -56,6 +56,10 @@
       "disabled": {
         "value": "{Cyan.cyan-5}",
         "type": "color"
+      },
+      "lightest": {
+        "value": "{Cyan.cyan-1}",
+        "type": "color"
       }
     },
     "text": {
@@ -66,6 +70,10 @@
     },
     "boarder": {
       "value": "{Golden Purple.purple-6}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Cyan.cyan-8}",
       "type": "color"
     }
   },
@@ -102,6 +110,10 @@
     },
     "background_hover": {
       "value": "{Gray.gray-5}",
+      "type": "color"
+    },
+    "background_darker": {
+      "value": "{Gray.gray-6}",
       "type": "color"
     }
   },
