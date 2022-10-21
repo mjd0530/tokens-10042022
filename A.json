@@ -35,7 +35,7 @@
   },
   "text": {
     "default": {
-      "value": "{slate.900}",
+      "value": "{Slate.gray-10}",
       "type": "color"
     },
     "lightest": {
@@ -57,6 +57,10 @@
     "ondark": {
       "value": "{Slate.gray-2}",
       "type": "color"
+    },
+    "brand": {
+      "value": "{brand.}",
+      "type": "color"
     }
   },
   "secondary": {
@@ -75,7 +79,7 @@
   },
   "icon": {
     "default": {
-      "value": "{slate.900}",
+      "value": "{Slate.gray-10}",
       "type": "color"
     },
     "disabled": {
@@ -83,7 +87,7 @@
       "type": "color"
     },
     "primary": {
-      "value": "{bg.primary}",
+      "value": "{Cyan.cyan-7}",
       "type": "color"
     },
     "onPrimary": {
@@ -95,7 +99,7 @@
       "type": "color"
     },
     "brand": {
-      "value": "{Daybreak Blue.blue-8}",
+      "value": "{brand.}",
       "type": "color"
     },
     "brand_onHover": {
@@ -153,6 +157,10 @@
     "error": {
       "value": "{Dust Red.red-7}",
       "type": "color"
+    },
+    "brand": {
+      "value": "{brand.}",
+      "type": "color"
     }
   },
   "brand": {
@@ -189,31 +197,47 @@
     "boarder_onHover": {
       "value": "{Primary.primary-8}",
       "type": "color"
+    },
+    "": {
+      "value": "{Daybreak Blue.blue-8}",
+      "type": "color"
     }
   },
   "bg": {
     "canvas": {
-      "value": "{slate.100}",
+      "value": "{Slate.gray-1}",
       "type": "color"
     },
     "primary": {
-      "value": "{cyan.700}",
+      "value": "{Cyan.cyan-8}",
       "type": "color"
     },
     "primary-hover": {
-      "value": "{cyan.900}",
+      "value": "{Cyan.cyan-9}",
       "type": "color"
     },
     "secondary": {
-      "value": "{slate.200}",
+      "value": "{Slate.gray-3}",
       "type": "color"
     },
     "secondary-onHover": {
-      "value": "{slate.300}",
+      "value": "{Slate.gray-4}",
       "type": "color"
     },
     "brand": {
-      "value": "{blue.700}",
+      "value": "{brand.}",
+      "type": "color"
+    },
+    "warning": {
+      "value": "{Sunset Orange.orange-7}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{Dust Red.red-7}",
+      "type": "color"
+    },
+    "focus": {
+      "value": "{Golden Purple.purple-6}",
       "type": "color"
     }
   }
