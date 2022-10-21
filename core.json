@@ -521,7 +521,7 @@
     "Button": {
       "value": {
         "fontFamily": "{fontFamilies.segoe-ui}",
-        "fontWeight": "{fontWeights.segoe-ui-2}",
+        "fontWeight": "{fontWeights.segoe-ui-0}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.1}",
         "letterSpacing": "{letterSpacing.3}",

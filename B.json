@@ -232,12 +232,12 @@
       "value": "{Slate.gray-2}",
       "type": "color"
     },
-    "primary": {
-      "value": "{primary.}",
-      "type": "color"
-    },
     "primary-hover": {
       "value": "{Cyan.cyan-9}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{primary.}",
       "type": "color"
     },
     "secondary": {
