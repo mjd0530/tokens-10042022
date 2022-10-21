@@ -8,7 +8,8 @@
       "ant_global": "source",
       "cake": "enabled",
       "ant_light": "enabled",
-      "ant_dark": "disabled"
+      "ant_dark": "disabled",
+      "core": "disabled"
     },
     "$figmaStyleReferences": {
       "primary.background.default": "S:0aa5ce1bad83d5a2f86bc38f80a820c92e50e458,",
@@ -25,7 +26,8 @@
       "tw_global": "disabled",
       "cake": "enabled",
       "ant_light": "disabled",
-      "ant_dark": "enabled"
+      "ant_dark": "enabled",
+      "core": "disabled"
     },
     "$figmaStyleReferences": {}
   }

@@ -8,6 +8,7 @@
     "cake",
     "ant tokens dark",
     "ant tokens light",
-    "global tw"
+    "global tw",
+    "core"
   ]
 }
