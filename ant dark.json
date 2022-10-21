@@ -298,7 +298,7 @@
     "primary-8": {
       "value": "#65b7f3",
       "type": "color",
-      "description": "-"
+      "description": "Changed to darker value to represent dark mode better."
     },
     "primary-9": {
       "value": "#8dcff8",

@@ -106,16 +106,20 @@
       "value": "{brand.}",
       "type": "color"
     },
-    "brand_onHover": {
+    "brand-onHover": {
       "value": "{Daybreak Blue.blue-9}",
+      "type": "color"
+    },
+    "onBrand": {
+      "value": "{Slate.gray-1}",
+      "type": "color"
+    },
+    "onBrand-dark": {
+      "value": "{Slate.gray-9}",
       "type": "color"
     },
     "brand_disabled": {
       "value": "{Daybreak Blue.blue-5}",
-      "type": "color"
-    },
-    "onBrand": {
-      "value": "#FFFFFF",
       "type": "color"
     }
   },
@@ -155,7 +159,7 @@
       "type": "color"
     },
     "light": {
-      "value": "{Slate.gray-5}",
+      "value": "{Slate.gray-3}",
       "type": "color"
     },
     "error": {
@@ -205,11 +209,19 @@
     "": {
       "value": "{Daybreak Blue.blue-8}",
       "type": "color"
+    },
+    "dark": {
+      "value": "{Daybreak Blue.blue-5}",
+      "type": "color"
     }
   },
   "bg": {
     "canvas": {
       "value": "{Slate.gray-1}",
+      "type": "color"
+    },
+    "card": {
+      "value": "{Slate.gray-2}",
       "type": "color"
     },
     "primary": {
@@ -228,12 +240,25 @@
       "value": "{Slate.gray-4}",
       "type": "color"
     },
-    "secondary-darker": {
-      "value": "{Slate.gray-5}",
-      "type": "color"
-    },
     "brand": {
       "value": "{brand.}",
+      "type": "color"
+    },
+    "brand-dark": {
+      "value": "{brand.dark}",
+      "type": "color",
+      "description": "Used for headers"
+    },
+    "secondary-darker": {
+      "value": "{Slate.gray-6}",
+      "type": "color"
+    },
+    "brand-lightest": {
+      "value": "{Geek Blue.geekblue-1}",
+      "type": "color"
+    },
+    "brand-lighter-copy": {
+      "value": "{Geek Blue.geekblue-2}",
       "type": "color"
     },
     "warning": {
@@ -247,6 +272,11 @@
     "focus": {
       "value": "{Golden Purple.purple-6}",
       "type": "color"
+    },
+    "warning-special": {
+      "value": "{Sunset Orange.orange-6}",
+      "type": "color",
+      "description": "Used for Confirmit icon in Lena Chatbot"
     }
   }
 }
