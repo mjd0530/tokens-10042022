@@ -521,10 +521,10 @@
     "Button": {
       "value": {
         "fontFamily": "{fontFamilies.segoe-ui}",
-        "fontWeight": "{fontWeights.segoe-ui-0}",
+        "fontWeight": "{fontWeights.segoe-ui-2}",
         "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.3}",
-        "letterSpacing": "{letterSpacing.7}",
+        "fontSize": "{fontSize.1}",
+        "letterSpacing": "{letterSpacing.3}",
         "paragraphSpacing": "{paragraphSpacing.0}",
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"

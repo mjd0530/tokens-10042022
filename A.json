@@ -33,7 +33,7 @@
       "type": "color"
     },
     "": {
-      "value": "{Cyan.cyan-7}",
+      "value": "{Cyan.cyan-8}",
       "type": "color"
     }
   },
@@ -64,6 +64,10 @@
     },
     "brand": {
       "value": "{brand.}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{Daybreak Blue.blue-8}",
       "type": "color"
     }
   },
@@ -107,7 +111,7 @@
       "type": "color"
     },
     "brand-onHover": {
-      "value": "{Daybreak Blue.blue-9}",
+      "value": "{Daybreak Blue.blue-8}",
       "type": "color"
     },
     "onBrand": {
@@ -168,6 +172,10 @@
     },
     "brand": {
       "value": "{brand.}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{Daybreak Blue.blue-8}",
       "type": "color"
     }
   },
@@ -242,6 +250,10 @@
     },
     "brand": {
       "value": "{brand.}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{Daybreak Blue.blue-8}",
       "type": "color"
     },
     "brand-dark": {

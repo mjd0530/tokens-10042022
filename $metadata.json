@@ -7,6 +7,10 @@
     "radix",
     "radix dark",
     "A",
-    "B"
+    "B",
+    "ant global",
+    "ant tokens dark",
+    "ant tokens light",
+    "global tw"
   ]
 }
