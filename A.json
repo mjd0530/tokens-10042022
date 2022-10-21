@@ -33,7 +33,7 @@
       "type": "color"
     },
     "": {
-      "value": "{Cyan.cyan-8}",
+      "value": "{Cyan.cyan-7}",
       "type": "color"
     }
   },
@@ -207,7 +207,7 @@
       "type": "color"
     },
     "": {
-      "value": "{Daybreak Blue.blue-8}",
+      "value": "{Daybreak Blue.blue-7}",
       "type": "color"
     },
     "dark": {
