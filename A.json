@@ -134,7 +134,7 @@
       "type": "color"
     },
     "brand": {
-      "value": "{brand.}",
+      "value": "{brand}",
       "type": "color"
     },
     "brand-onHover": {
