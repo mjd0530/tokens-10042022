@@ -417,7 +417,7 @@
     "H3": {
       "value": {
         "fontFamily": "{fontFamilies.segoe-ui}",
-        "fontWeight": "{fontWeights.segoe-ui-1}",
+        "fontWeight": "{fontWeights.segoe-ui-2}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.7}",
         "letterSpacing": "{letterSpacing.2}",

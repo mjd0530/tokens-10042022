@@ -27,7 +27,7 @@
       "value": "{Slate.gray-7}",
       "type": "color"
     },
-    "disabled": {
+    "hint": {
       "value": "{Slate.gray-6}",
       "type": "color"
     },
