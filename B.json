@@ -218,6 +218,11 @@
       "value": "{Golden Purple.purple-7}",
       "type": "color"
     },
+    "shadow": {
+      "value": "rgba(83,29,171,0.2)",
+      "type": "color",
+      "description": "rgba(83, 29, 171, 0.2)"
+    },
     "dark": {
       "value": "{Daybreak Blue.blue-5}",
       "type": "color"
