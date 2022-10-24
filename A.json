@@ -1,29 +1,5 @@
 {
   "primary": {
-    "background": {
-      "default": {
-        "value": "{Cyan.cyan-8}",
-        "type": "color"
-      },
-      "hover": {
-        "value": "{Cyan.cyan-9}",
-        "type": "color"
-      },
-      "disabled": {
-        "value": "{Cyan.cyan-5}",
-        "type": "color"
-      },
-      "lightest": {
-        "value": "{Cyan.cyan-1}",
-        "type": "color"
-      }
-    },
-    "text": {
-      "default": {
-        "value": "{Slate.gray-1}",
-        "type": "color"
-      }
-    },
     "boarder": {
       "value": "{Golden Purple.purple-6}",
       "type": "color"
@@ -35,6 +11,11 @@
     "": {
       "value": "{Cyan.cyan-8}",
       "type": "color"
+    },
+    "shadow": {
+      "value": "rgba(9,109,217,0.4)",
+      "type": "color",
+      "description": "rgba(9, 109, 217, 0.4)"
     }
   },
   "text": {
@@ -68,6 +49,10 @@
     },
     "brand-onHover": {
       "value": "{Daybreak Blue.blue-8}",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{Slate.gray-1}",
       "type": "color"
     }
   },
@@ -127,36 +112,6 @@
       "type": "color"
     }
   },
-  "background": {
-    "default": {
-      "value": "{Slate.gray-1}",
-      "type": "color"
-    },
-    "disabled": {
-      "value": "{Slate.gray-3}",
-      "type": "color"
-    },
-    "canvas": {
-      "value": "{Slate.gray-2}",
-      "type": "color"
-    },
-    "lightest": {
-      "value": "{Slate.gray-3}",
-      "type": "color"
-    },
-    "light": {
-      "value": "{Slate.gray-4}",
-      "type": "color"
-    },
-    "darker": {
-      "value": "{Slate.gray-5}",
-      "type": "color"
-    },
-    "darkest": {
-      "value": "{Slate.gray-10}",
-      "type": "color"
-    }
-  },
   "boarder": {
     "lightest": {
       "value": "{Slate.gray-1}",
@@ -184,24 +139,6 @@
     }
   },
   "brand": {
-    "background": {
-      "default": {
-        "value": "{Daybreak Blue.blue-7}",
-        "type": "color"
-      },
-      "darker": {
-        "value": "{Daybreak Blue.blue-8}",
-        "type": "color"
-      },
-      "lightest": {
-        "value": "{Daybreak Blue.blue-1}",
-        "type": "color"
-      },
-      "onHover": {
-        "value": "{Daybreak Blue.blue-8}",
-        "type": "color"
-      }
-    },
     "secondary": {
       "value": "{Sunset Orange.orange-6}",
       "type": "color"
@@ -222,13 +159,19 @@
       "value": "{Daybreak Blue.blue-7}",
       "type": "color"
     },
-    "shadow": {
+    "dark": {
+      "value": "{Daybreak Blue.blue-5}",
+      "type": "color"
+    }
+  },
+  "shadow": {
+    "brand": {
       "value": "rgba(9,109,217,0.4)",
       "type": "color",
       "description": "rgba(9, 109, 217, 0.4)"
     },
-    "dark": {
-      "value": "{Daybreak Blue.blue-5}",
+    "primary": {
+      "value": "rgba(19, 168, 168, 0.4)",
       "type": "color"
     }
   },
