@@ -776,26 +776,26 @@
       {
         "color": "#0000001f",
         "type": "dropShadow",
-        "x": 0,
-        "y": 3,
-        "blur": 6,
-        "spread": -4
+        "x": "0",
+        "y": "3",
+        "blur": "6",
+        "spread": "-4"
       },
       {
         "color": "#00000014",
         "type": "dropShadow",
-        "x": 0,
-        "y": 6,
-        "blur": 16,
-        "spread": 0
+        "x": "0",
+        "y": "6",
+        "blur": "16",
+        "spread": "0"
       },
       {
         "color": "#0000000d",
         "type": "dropShadow",
-        "x": 0,
-        "y": 9,
-        "blur": 28,
-        "spread": 8
+        "x": "0",
+        "y": "9",
+        "blur": "28",
+        "spread": "8"
       }
     ],
     "type": "boxShadow",
@@ -805,10 +805,10 @@
     "value": {
       "color": "#1890ff33",
       "type": "dropShadow",
-      "x": 0,
-      "y": 0,
-      "blur": 0,
-      "spread": 2
+      "x": "0",
+      "y": "0",
+      "blur": "0",
+      "spread": "2"
     },
     "type": "boxShadow",
     "description": "Used in a focused state of all inputs"
@@ -817,10 +817,10 @@
     "value": {
       "color": "#52c41a33",
       "type": "dropShadow",
-      "x": 0,
-      "y": 0,
-      "blur": 0,
-      "spread": 2
+      "x": "0",
+      "y": "0",
+      "blur": "0",
+      "spread": "2"
     },
     "type": "boxShadow",
     "description": "-"
@@ -829,10 +829,10 @@
     "value": {
       "color": "#faad1433",
       "type": "dropShadow",
-      "x": 0,
-      "y": 0,
-      "blur": 0,
-      "spread": 2
+      "x": "0",
+      "y": "0",
+      "blur": "0",
+      "spread": "2"
     },
     "type": "boxShadow",
     "description": "Used in a warning state of all inputs"
@@ -841,10 +841,10 @@
     "value": {
       "color": "#f5222d33",
       "type": "dropShadow",
-      "x": 0,
-      "y": 0,
-      "blur": 0,
-      "spread": 2
+      "x": "0",
+      "y": "0",
+      "blur": "0",
+      "spread": "2"
     },
     "type": "boxShadow",
     "description": "Used in an error state of all inputs"
