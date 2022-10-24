@@ -177,6 +177,10 @@
     "brand-onHover": {
       "value": "{Daybreak Blue.blue-8}",
       "type": "color"
+    },
+    "darker": {
+      "value": "{Slate.gray-5}",
+      "type": "color"
     }
   },
   "brand": {
@@ -217,6 +221,11 @@
     "": {
       "value": "{Daybreak Blue.blue-7}",
       "type": "color"
+    },
+    "shadow": {
+      "value": "rgba(9,109,217,0.2)",
+      "type": "color",
+      "description": "rgba(9, 109, 217, 0.2)"
     },
     "dark": {
       "value": "{Daybreak Blue.blue-5}",
@@ -323,15 +332,15 @@
   },
   "primary-color-outline": {
     "value": {
-      "color": "#1890ff33",
-      "type": "dropShadow",
-      "x": 0,
-      "y": 0,
-      "blur": 0,
-      "spread": 2
+      "x": "0",
+      "y": "0",
+      "blur": "0",
+      "spread": "2",
+      "color": "{brand.shadow}",
+      "type": "dropShadow"
     },
     "type": "boxShadow",
-    "description": "Used in a focused state of all inputs"
+    "description": "Used in a focused state of all inputs\n\nrgba(9, 109, 217, 0.2)"
   },
   "success-color-outline": {
     "value": {
