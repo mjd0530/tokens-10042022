@@ -44,7 +44,7 @@
       "type": "color"
     },
     "brand": {
-      "value": "{brand.}",
+      "value": "{brand}",
       "type": "color"
     },
     "brand-onHover": {
@@ -92,7 +92,7 @@
       "type": "color"
     },
     "brand": {
-      "value": "{brand.}",
+      "value": "{brand}",
       "type": "color"
     },
     "brand-onHover": {
@@ -109,6 +109,14 @@
     },
     "brand_disabled": {
       "value": "{Daybreak Blue.blue-5}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{error}",
+      "type": "color"
+    },
+    "warning": {
+      "value": "{warning}",
       "type": "color"
     }
   },
@@ -142,32 +150,6 @@
       "type": "color"
     }
   },
-  "brand": {
-    "secondary": {
-      "value": "{Sunset Orange.orange-6}",
-      "type": "color"
-    },
-    "boarder": {
-      "value": "{Daybreak Blue.blue-7}",
-      "type": "color"
-    },
-    "text": {
-      "value": "{Daybreak Blue.blue-8}",
-      "type": "color"
-    },
-    "boarder_onHover": {
-      "value": "{Primary.primary-6}",
-      "type": "color"
-    },
-    "": {
-      "value": "{Daybreak Blue.blue-7}",
-      "type": "color"
-    },
-    "dark": {
-      "value": "{Daybreak Blue.blue-5}",
-      "type": "color"
-    }
-  },
   "shadow": {
     "brand": {
       "value": "rgba(9,109,217,0.4)",
@@ -196,6 +178,10 @@
       "value": "{primary.}",
       "type": "color"
     },
+    "primary-lightest": {
+      "value": "{Cyan.cyan-1}",
+      "type": "color"
+    },
     "primary-hover": {
       "value": "{Cyan.cyan-9}",
       "type": "color"
@@ -213,7 +199,7 @@
       "type": "color"
     },
     "brand": {
-      "value": "{brand.}",
+      "value": "{brand}",
       "type": "color"
     },
     "brand-onHover": {
@@ -221,7 +207,7 @@
       "type": "color"
     },
     "brand-dark": {
-      "value": "{brand.dark}",
+      "value": "{Daybreak Blue.blue-7}",
       "type": "color",
       "description": "Used for headers"
     },
@@ -253,6 +239,14 @@
       "value": "{Sunset Orange.orange-6}",
       "type": "color",
       "description": "Used for Confirmit icon in Lena Chatbot"
+    },
+    "error-lightest": {
+      "value": "{error-lightest}",
+      "type": "color"
+    },
+    "warning-lightest": {
+      "value": "{Sunset Orange.orange-1}",
+      "type": "color"
     }
   },
   "box-shadow-base": {
@@ -327,6 +321,18 @@
   },
   "error-hover": {
     "value": "{Dust Red.red-8}",
+    "type": "color"
+  },
+  "error-lightest": {
+    "value": "{Dust Red.red-1}",
+    "type": "color"
+  },
+  "brand": {
+    "value": "{Daybreak Blue.blue-7}",
+    "type": "color"
+  },
+  "warning": {
+    "value": "{Sunset Orange.orange-6}",
     "type": "color"
   }
 }

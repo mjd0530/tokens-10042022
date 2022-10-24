@@ -504,12 +504,12 @@
       "description": "-"
     },
     "cyan-8": {
-      "value": "#13a8a8",
+      "value": "#58d1c9",
       "type": "color",
       "description": "-"
     },
     "cyan-9": {
-      "value": "#33bcb7",
+      "value": "#84e2d8",
       "type": "color",
       "description": "-"
     },
@@ -551,12 +551,12 @@
       "description": "Normal"
     },
     "blue-7": {
-      "value": "#177ddc",
+      "value": "#3c9ae8",
       "type": "color",
       "description": "Click"
     },
     "blue-8": {
-      "value": "#3c9ae8",
+      "value": "#65b7f3",
       "type": "color",
       "description": "-"
     },
