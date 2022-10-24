@@ -32,7 +32,7 @@
       "type": "color"
     },
     "error": {
-      "value": "{Dust Red.red-7}",
+      "value": "{error}",
       "type": "color"
     },
     "onBrand": {
@@ -122,7 +122,7 @@
       "type": "color"
     },
     "error": {
-      "value": "{Dust Red.red-7}",
+      "value": "{error}",
       "type": "color"
     },
     "brand": {
@@ -135,6 +135,10 @@
     },
     "darker": {
       "value": "{Slate.gray-5}",
+      "type": "color"
+    },
+    "error-hover": {
+      "value": "{error-hover}",
       "type": "color"
     }
   },
@@ -172,6 +176,10 @@
     },
     "primary": {
       "value": "rgba(19, 168, 168, 0.4)",
+      "type": "color"
+    },
+    "error": {
+      "value": "rgba(207, 19, 34, 0.4)",
       "type": "color"
     }
   },
@@ -230,7 +238,11 @@
       "type": "color"
     },
     "error": {
-      "value": "{Dust Red.red-7}",
+      "value": "{error}",
+      "type": "color"
+    },
+    "error-hover": {
+      "value": "{error-hover}",
       "type": "color"
     },
     "focus": {
@@ -308,5 +320,13 @@
     },
     "type": "boxShadow",
     "description": "Used in an error state of all inputs"
+  },
+  "error": {
+    "value": "{Dust Red.red-7}",
+    "type": "color"
+  },
+  "error-hover": {
+    "value": "{Dust Red.red-8}",
+    "type": "color"
   }
 }

@@ -608,5 +608,16 @@
       "type": "dropShadow"
     },
     "type": "boxShadow"
+  },
+  "error-color-outline": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "0",
+      "spread": "2",
+      "color": "{shadow.error}",
+      "type": "innerShadow"
+    },
+    "type": "boxShadow"
   }
 }
