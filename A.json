@@ -330,18 +330,6 @@
     "type": "boxShadow",
     "description": "Used in all popup menus and modals"
   },
-  "primary-color-outline": {
-    "value": {
-      "x": "0",
-      "y": "0",
-      "blur": "0",
-      "spread": "2",
-      "color": "{brand.shadow}",
-      "type": "dropShadow"
-    },
-    "type": "boxShadow",
-    "description": "Used in a focused state of all inputs\n\nrgba(9, 109, 217, 0.2)"
-  },
   "success-color-outline": {
     "value": {
       "color": "#52c41a33",

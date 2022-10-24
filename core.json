@@ -573,5 +573,16 @@
       "value": "none",
       "type": "textDecoration"
     }
+  },
+  "brand-color-outline": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "0",
+      "spread": "2",
+      "color": "{brand.shadow}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
   }
 }
