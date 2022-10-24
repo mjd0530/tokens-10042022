@@ -223,7 +223,7 @@
       "type": "color"
     },
     "shadow": {
-      "value": "rgba(9,109,217,0.2)",
+      "value": "rgba(9,109,217,0.4)",
       "type": "color",
       "description": "rgba(9, 109, 217, 0.4)"
     },
