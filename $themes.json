@@ -126,5 +126,53 @@
       "whct_aquatic": "enabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "aca04ecb1510b9084d4a3ca54a631c8fb1e83f7d",
+    "name": "whct_dusk",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "ant light": "disabled",
+      "ant dark": "disabled",
+      "tailwind": "disabled",
+      "radix": "disabled",
+      "radix dark": "disabled",
+      "A": "disabled",
+      "B": "disabled",
+      "ant global": "disabled",
+      "ant tokens dark": "disabled",
+      "ant tokens light": "disabled",
+      "global tw": "disabled",
+      "A_WHCT": "source",
+      "whct_desert": "disabled",
+      "whct_night sky": "disabled",
+      "whct_dusk": "enabled",
+      "whct_aquatic": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "0f006e36258d71c17575cc25456b9f4cfa3944c5",
+    "name": "whct_night sky",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "ant light": "disabled",
+      "ant dark": "disabled",
+      "tailwind": "disabled",
+      "radix": "disabled",
+      "radix dark": "disabled",
+      "A": "disabled",
+      "B": "disabled",
+      "ant global": "disabled",
+      "ant tokens dark": "disabled",
+      "ant tokens light": "disabled",
+      "global tw": "disabled",
+      "A_WHCT": "source",
+      "whct_desert": "disabled",
+      "whct_night sky": "enabled",
+      "whct_dusk": "disabled",
+      "whct_aquatic": "disabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
