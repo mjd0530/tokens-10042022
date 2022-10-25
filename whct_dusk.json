@@ -1,0 +1,40 @@
+{
+  "dusk": {
+    "background": {
+      "value": "#2d3236",
+      "type": "color"
+    },
+    "background boarder": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "text": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "hyperlink": {
+      "value": "#70ebde",
+      "type": "color"
+    },
+    "inactive text": {
+      "value": "#a6a6a6",
+      "type": "color"
+    },
+    "selected text": {
+      "value": "#212d3b",
+      "type": "color"
+    },
+    "selected text background": {
+      "value": "#a1bfde",
+      "type": "color"
+    },
+    "button text": {
+      "value": "#b6f6f0",
+      "type": "color"
+    },
+    "button text background": {
+      "value": "#2d3236",
+      "type": "color"
+    }
+  }
+}

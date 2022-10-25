@@ -1,0 +1,40 @@
+{
+  "aquatic": {
+    "background": {
+      "value": "#202020",
+      "type": "color"
+    },
+    "background boarder": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "text": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "hyperlink": {
+      "value": "#75e9fc",
+      "type": "color"
+    },
+    "inactive text": {
+      "value": "#a6a6a6",
+      "type": "color"
+    },
+    "selected text": {
+      "value": "#263b50",
+      "type": "color"
+    },
+    "selected text background": {
+      "value": "#8ee3f0",
+      "type": "color"
+    },
+    "button text": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "button text background": {
+      "value": "#202020",
+      "type": "color"
+    }
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "primary": {
+    "boarder": {
+      "value": "{desert.background boarder}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{desert.text}",
+      "type": "color"
+    },
+    "": {
+      "value": "{desert.background}",
+      "type": "color"
+    }
+  },
+  "text": {
+    "default": {
+      "value": "{desert.text}",
+      "type": "color"
+    },
+    "lightest": {
+      "value": "{desert.button text}",
+      "type": "color"
+    },
+    "hint": {
+      "value": "{desert.inactive text}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{desert.text}",
+      "type": "color"
+    },
+    "onBrand": {
+      "value": "{desert.button text}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{desert.text}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{desert.text}",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{desert.button text}",
+      "type": "color"
+    }
+  },
+  "secondary": {
+    "background": {
+      "value": "{desert.background}",
+      "type": "color"
+    },
+    "background_hover": {
+      "value": "{desert.background}",
+      "type": "color"
+    },
+    "background_darker": {
+      "value": "{desert.background}",
+      "type": "color"
+    }
+  },
+  "icon": {
+    "default": {
+      "value": "{desert.button text}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{desert.inactive text}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{desert.inactive text}",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{desert.button text}",
+      "type": "color"
+    },
+    "onSecondary": {
+      "value": "{desert.button text}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{desert.button text}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{desert.button text}",
+      "type": "color"
+    },
+    "onBrand": {
+      "value": "{desert.button text}",
+      "type": "color"
+    },
+    "onBrand-dark": {
+      "value": "{desert.button text}",
+      "type": "color"
+    },
+    "brand_disabled": {
+      "value": "{desert.button text}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{desert.button text}",
+      "type": "color"
+    },
+    "warning": {
+      "value": "{desert.button text}",
+      "type": "color"
+    }
+  },
+  "boarder": {
+    "lightest": {
+      "value": "{desert.background boarder}",
+      "type": "color"
+    },
+    "light": {
+      "value": "{desert.background boarder}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{desert.background boarder}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{desert.background boarder}",
+      "type": "color"
+    },
+    "darker": {
+      "value": "{desert.background boarder}",
+      "type": "color"
+    },
+    "error-hover": {
+      "value": "{desert.background boarder}",
+      "type": "color"
+    }
+  },
+  "{desert": {
+    "background boarder}": {
+      "value": "{error}",
+      "type": "color"
+    }
+  },
+  "shadow": {
+    "brand": {
+      "value": "{desert.background boarder}",
+      "type": "color",
+      "description": "rgba(9, 109, 217, 0.4)"
+    },
+    "primary": {
+      "value": "{desert.background boarder}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{desert.background boarder}",
+      "type": "color"
+    }
+  },
+  "bg": {
+    "canvas": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "card": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{primary.}",
+      "type": "color"
+    },
+    "primary-lightest": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "primary-hover": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "secondary-onHover": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "secondary-darker": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "brand-dark": {
+      "value": "{brand}",
+      "type": "color",
+      "description": "Used for headers"
+    },
+    "brand-lightest": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "brand-lighter": {
+      "value": "{desert.background}",
+      "type": "color"
+    },
+    "warning": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{error}",
+      "type": "color"
+    },
+    "error-hover": {
+      "value": "{error-hover}",
+      "type": "color"
+    },
+    "focus": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "warning-special": {
+      "value": "{brand}",
+      "type": "color",
+      "description": "Used for Confirmit icon in Lena Chatbot"
+    },
+    "error-lightest": {
+      "value": "{error-lightest}",
+      "type": "color"
+    },
+    "warning-lightest": {
+      "value": "{brand}",
+      "type": "color"
+    }
+  },
+  "error": {
+    "value": "{brand}",
+    "type": "color"
+  },
+  "error-hover": {
+    "value": "{brand}",
+    "type": "color"
+  },
+  "error-lightest": {
+    "value": "{brand}",
+    "type": "color"
+  },
+  "brand": {
+    "value": "{desert.background}",
+    "type": "color"
+  },
+  "warning": {
+    "value": "{bg.brand}",
+    "type": "color"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "desert": {
+    "background": {
+      "value": "#fffaef",
+      "type": "color"
+    },
+    "background boarder": {
+      "value": "#3d3d3d",
+      "type": "color"
+    },
+    "text": {
+      "value": "#3d3d3d",
+      "type": "color"
+    },
+    "hyperlink": {
+      "value": "#1c5e75",
+      "type": "color"
+    },
+    "inactive text": {
+      "value": "#676767",
+      "type": "color"
+    },
+    "selected text": {
+      "value": "#fff5e3",
+      "type": "color"
+    },
+    "selected text background": {
+      "value": "#903909",
+      "type": "color"
+    },
+    "button text": {
+      "value": "#202020",
+      "type": "color"
+    },
+    "button text background": {
+      "value": "#fffaef",
+      "type": "color"
+    }
+  }
+}
