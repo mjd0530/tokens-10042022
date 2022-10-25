@@ -81,7 +81,7 @@
   },
   {
     "id": "a5770f645223481f7cd6d9a8e63e8f7e9e25bff5",
-    "name": "a_whct_desert",
+    "name": "whct_desert",
     "selectedTokenSets": {
       "core": "enabled",
       "ant light": "disabled",
@@ -100,6 +100,30 @@
       "whct_aquatic": "disabled",
       "whct_desert": "enabled",
       "A_WHCT": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "bbe6f15f1f791b330a74e815dae74a4e4614bf4a",
+    "name": "whct_aquatic",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "ant light": "disabled",
+      "ant dark": "disabled",
+      "tailwind": "disabled",
+      "radix": "disabled",
+      "radix dark": "disabled",
+      "A": "disabled",
+      "B": "disabled",
+      "ant global": "disabled",
+      "ant tokens dark": "disabled",
+      "ant tokens light": "disabled",
+      "global tw": "disabled",
+      "A_WHCT": "source",
+      "whct_desert": "disabled",
+      "whct_night sky": "disabled",
+      "whct_dusk": "disabled",
+      "whct_aquatic": "enabled"
     },
     "$figmaStyleReferences": {}
   }

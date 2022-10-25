@@ -1,160 +1,150 @@
 {
   "primary": {
     "boarder": {
-      "value": "{desert.background boarder}",
+      "value": "{background boarder}",
       "type": "color"
     },
     "icon": {
-      "value": "{desert.text}",
+      "value": "{text}",
       "type": "color"
     },
     "": {
-      "value": "{desert.background}",
+      "value": "{background}",
       "type": "color"
     }
   },
   "text": {
     "default": {
-      "value": "{desert.text}",
+      "value": "{text}",
       "type": "color"
     },
     "lightest": {
-      "value": "{desert.button text}",
+      "value": "{button text}",
       "type": "color"
     },
     "hint": {
-      "value": "{desert.inactive text}",
+      "value": "{inactive text}",
       "type": "color"
     },
     "error": {
-      "value": "{desert.text}",
+      "value": "{text}",
       "type": "color"
     },
     "onBrand": {
-      "value": "{desert.button text}",
+      "value": "{button text}",
       "type": "color"
     },
     "brand": {
-      "value": "{desert.text}",
+      "value": "{text}",
       "type": "color"
     },
     "brand-onHover": {
-      "value": "{desert.text}",
+      "value": "{text}",
       "type": "color"
     },
     "onPrimary": {
-      "value": "{desert.button text}",
+      "value": "{button text}",
       "type": "color"
     }
   },
   "secondary": {
     "background": {
-      "value": "{desert.background}",
+      "value": "{background}",
       "type": "color"
     },
     "background_hover": {
-      "value": "{desert.background}",
+      "value": "{background}",
       "type": "color"
     },
     "background_darker": {
-      "value": "{desert.background}",
+      "value": "{background}",
       "type": "color"
     }
   },
   "icon": {
     "default": {
-      "value": "{desert.button text}",
+      "value": "{button text}",
       "type": "color"
     },
     "disabled": {
-      "value": "{desert.inactive text}",
+      "value": "{inactive text}",
       "type": "color"
     },
     "primary": {
-      "value": "{desert.inactive text}",
+      "value": "{inactive text}",
       "type": "color"
     },
     "onPrimary": {
-      "value": "{desert.button text}",
+      "value": "{button text}",
       "type": "color"
     },
     "onSecondary": {
-      "value": "{desert.button text}",
+      "value": "{button text}",
       "type": "color"
     },
     "brand": {
-      "value": "{desert.button text}",
+      "value": "{button text}",
       "type": "color"
     },
     "brand-onHover": {
-      "value": "{desert.button text}",
+      "value": "{button text}",
       "type": "color"
     },
     "onBrand": {
-      "value": "{desert.button text}",
+      "value": "{button text}",
       "type": "color"
     },
     "onBrand-dark": {
-      "value": "{desert.button text}",
-      "type": "color"
-    },
-    "brand_disabled": {
-      "value": "{desert.button text}",
+      "value": "{button text}",
       "type": "color"
     },
     "error": {
-      "value": "{desert.button text}",
+      "value": "{button text}",
       "type": "color"
     },
     "warning": {
-      "value": "{desert.button text}",
+      "value": "{button text}",
       "type": "color"
     }
   },
   "boarder": {
     "lightest": {
-      "value": "{desert.background boarder}",
+      "value": "{background boarder}",
       "type": "color"
     },
     "light": {
-      "value": "{desert.background boarder}",
+      "value": "{background boarder}",
       "type": "color"
     },
     "brand": {
-      "value": "{desert.background boarder}",
+      "value": "{background boarder}",
       "type": "color"
     },
     "brand-onHover": {
-      "value": "{desert.background boarder}",
+      "value": "{background boarder}",
       "type": "color"
     },
     "darker": {
-      "value": "{desert.background boarder}",
+      "value": "{background boarder}",
       "type": "color"
     },
     "error-hover": {
-      "value": "{desert.background boarder}",
-      "type": "color"
-    }
-  },
-  "{desert": {
-    "background boarder}": {
-      "value": "{error}",
+      "value": "{background boarder}",
       "type": "color"
     }
   },
   "shadow": {
     "brand": {
-      "value": "{desert.background boarder}",
+      "value": "{background boarder}",
       "type": "color",
       "description": "rgba(9, 109, 217, 0.4)"
     },
     "primary": {
-      "value": "{desert.background boarder}",
+      "value": "{background boarder}",
       "type": "color"
     },
     "error": {
-      "value": "{desert.background boarder}",
+      "value": "{background boarder}",
       "type": "color"
     }
   },
@@ -168,7 +158,7 @@
       "type": "color"
     },
     "primary": {
-      "value": "{primary.}",
+      "value": "{background}",
       "type": "color"
     },
     "primary-lightest": {
@@ -209,7 +199,7 @@
       "type": "color"
     },
     "brand-lighter": {
-      "value": "{desert.background}",
+      "value": "{background}",
       "type": "color"
     },
     "warning": {
@@ -243,19 +233,19 @@
     }
   },
   "error": {
-    "value": "{brand}",
+    "value": "{background}",
     "type": "color"
   },
   "error-hover": {
-    "value": "{brand}",
+    "value": "{background}",
     "type": "color"
   },
   "error-lightest": {
-    "value": "{brand}",
+    "value": "{background}",
     "type": "color"
   },
   "brand": {
-    "value": "{desert.background}",
+    "value": "{background}",
     "type": "color"
   },
   "warning": {

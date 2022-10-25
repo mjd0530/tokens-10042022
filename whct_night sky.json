@@ -1,40 +1,38 @@
 {
-  "night sky": {
-    "background": {
-      "value": "#000000",
-      "type": "color"
-    },
-    "background boarder": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "text": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "hyperlink": {
-      "value": "#8080ff",
-      "type": "color"
-    },
-    "inactive text": {
-      "value": "#a6a6a6",
-      "type": "color"
-    },
-    "selected text": {
-      "value": "#2b2b2b",
-      "type": "color"
-    },
-    "selected text background": {
-      "value": "#d6b4fd",
-      "type": "color"
-    },
-    "button text": {
-      "value": "#ffee32",
-      "type": "color"
-    },
-    "button text background": {
-      "value": "#000000",
-      "type": "color"
-    }
+  "background": {
+    "value": "#000000",
+    "type": "color"
+  },
+  "background boarder": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "text": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "hyperlink": {
+    "value": "#8080ff",
+    "type": "color"
+  },
+  "inactive text": {
+    "value": "#a6a6a6",
+    "type": "color"
+  },
+  "selected text": {
+    "value": "#2b2b2b",
+    "type": "color"
+  },
+  "selected text background": {
+    "value": "#d6b4fd",
+    "type": "color"
+  },
+  "button text": {
+    "value": "#ffee32",
+    "type": "color"
+  },
+  "button text background": {
+    "value": "#000000",
+    "type": "color"
   }
 }
