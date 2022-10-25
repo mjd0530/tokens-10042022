@@ -46,7 +46,7 @@
       "description": "-"
     },
     "gray-10": {
-      "value": "#f8fafc",
+      "value": "#e2e8f0",
       "type": "color",
       "description": "Title / Primary Text"
     }
@@ -551,7 +551,7 @@
       "description": "Normal"
     },
     "blue-7": {
-      "value": "#1765ad",
+      "value": "#177ddc",
       "type": "color",
       "description": "Edited for dark mode blue brand\n"
     },
