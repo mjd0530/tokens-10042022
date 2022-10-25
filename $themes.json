@@ -14,7 +14,8 @@
       "whct_desert": "disabled",
       "A_whct": "disabled",
       "Tailwind core": "disabled",
-      "Material core": "disabled"
+      "Material core": "disabled",
+      "Radix core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -33,7 +34,8 @@
       "whct_desert": "disabled",
       "A_whct": "disabled",
       "Tailwind core": "disabled",
-      "Material core": "disabled"
+      "Material core": "disabled",
+      "Radix core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -52,7 +54,8 @@
       "whct_desert": "disabled",
       "A_whct": "disabled",
       "Tailwind core": "disabled",
-      "Material core": "disabled"
+      "Material core": "disabled",
+      "Radix core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -71,7 +74,8 @@
       "whct_desert": "disabled",
       "A_whct": "disabled",
       "Tailwind core": "disabled",
-      "Material core": "disabled"
+      "Material core": "disabled",
+      "Radix core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -90,7 +94,8 @@
       "whct_desert": "enabled",
       "A_whct": "source",
       "Tailwind core": "disabled",
-      "Material core": "disabled"
+      "Material core": "disabled",
+      "Radix core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -109,7 +114,8 @@
       "whct_aquatic": "enabled",
       "A_whct": "source",
       "Tailwind core": "disabled",
-      "Material core": "disabled"
+      "Material core": "disabled",
+      "Radix core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -128,7 +134,8 @@
       "whct_aquatic": "disabled",
       "A_whct": "source",
       "Tailwind core": "disabled",
-      "Material core": "disabled"
+      "Material core": "disabled",
+      "Radix core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -147,7 +154,8 @@
       "whct_aquatic": "disabled",
       "A_whct": "source",
       "Tailwind core": "disabled",
-      "Material core": "disabled"
+      "Material core": "disabled",
+      "Radix core": "disabled"
     },
     "$figmaStyleReferences": {}
   }

@@ -11,6 +11,7 @@
     "whct_dusk",
     "whct_aquatic",
     "Tailwind core",
-    "Material core"
+    "Material core",
+    "Radix core"
   ]
 }
