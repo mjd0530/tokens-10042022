@@ -36,7 +36,7 @@
       "type": "color"
     },
     "onBrand": {
-      "value": "{Slate.gray-1}",
+      "value": "{onBrand}",
       "type": "color"
     },
     "ondark": {
@@ -53,20 +53,6 @@
     },
     "onPrimary": {
       "value": "{Slate.gray-1}",
-      "type": "color"
-    }
-  },
-  "secondary": {
-    "background": {
-      "value": "{Slate.gray-4}",
-      "type": "color"
-    },
-    "background_hover": {
-      "value": "{Slate.gray-5}",
-      "type": "color"
-    },
-    "background_darker": {
-      "value": "{Slate.gray-6}",
       "type": "color"
     }
   },
@@ -100,7 +86,7 @@
       "type": "color"
     },
     "onBrand": {
-      "value": "{Slate.gray-1}",
+      "value": "{onBrand}",
       "type": "color"
     },
     "onBrand-dark": {
@@ -152,7 +138,7 @@
   },
   "shadow": {
     "brand": {
-      "value": "rgba(9,109,217,0.4)",
+      "value": "{Indigo.Dark Alpha.11}",
       "type": "color",
       "description": "rgba(9, 109, 217, 0.4)"
     },
@@ -175,7 +161,7 @@
       "type": "color"
     },
     "primary": {
-      "value": "{primary.}",
+      "value": "{brand}",
       "type": "color"
     },
     "primary-lightest": {
@@ -187,7 +173,7 @@
       "type": "color"
     },
     "secondary": {
-      "value": "{Slate.gray-3}",
+      "value": "{secondary}",
       "type": "color"
     },
     "secondary-onHover": {
@@ -199,11 +185,11 @@
       "type": "color"
     },
     "brand": {
-      "value": "{brand-onHover}",
+      "value": "{brand}",
       "type": "color"
     },
     "brand-onHover": {
-      "value": "{Daybreak Blue.blue-8}",
+      "value": "{brand-onHover}",
       "type": "color"
     },
     "brand-dark": {
@@ -328,11 +314,23 @@
     "type": "color"
   },
   "brand": {
-    "value": "{Golden Purple.purple-7}",
+    "value": "{Indigo.Dark.9}",
+    "type": "color"
+  },
+  "brand-onHover": {
+    "value": "{Indigo.Dark.10}",
     "type": "color"
   },
   "warning": {
     "value": "{Sunset Orange.orange-6}",
+    "type": "color"
+  },
+  "onBrand": {
+    "value": "{Indigo.Dark.1}",
+    "type": "color"
+  },
+  "secondary": {
+    "value": "{Slate.Dark.1}",
     "type": "color"
   }
 }

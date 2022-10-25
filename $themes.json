@@ -1,27 +1,5 @@
 [
   {
-    "id": "4a8a1d8eeaa0433de4df95c90910952f34593621",
-    "name": "BD",
-    "selectedTokenSets": {
-      "core": "enabled",
-      "ant light": "disabled",
-      "ant dark": "enabled",
-      "A": "disabled",
-      "B": "disabled",
-      "whct_night sky": "disabled",
-      "whct_dusk": "disabled",
-      "whct_aquatic": "disabled",
-      "whct_desert": "disabled",
-      "A_whct": "disabled",
-      "Tailwind core": "disabled",
-      "Material core": "disabled",
-      "Radix core": "disabled",
-      "Radix core light": "disabled",
-      "Radix core dark": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "0e701d580dceccd7f995d09500141b0aff74696d",
     "name": "BL",
     "selectedTokenSets": {
@@ -170,6 +148,28 @@
       "Tailwind core": "disabled",
       "Material core": "disabled",
       "Radix core": "enabled",
+      "Radix core light": "disabled",
+      "Radix core dark": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "4a8a1d8eeaa0433de4df95c90910952f34593621",
+    "name": "BD",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "ant light": "disabled",
+      "ant dark": "disabled",
+      "A": "disabled",
+      "B": "source",
+      "whct_night sky": "disabled",
+      "whct_dusk": "disabled",
+      "whct_aquatic": "disabled",
+      "whct_desert": "disabled",
+      "A_whct": "disabled",
+      "Tailwind core": "disabled",
+      "Material core": "disabled",
+      "Radix core": "disabled",
       "Radix core light": "disabled",
       "Radix core dark": "enabled"
     },

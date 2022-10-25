@@ -1,23 +1,4 @@
 {
-  "primary": {
-    "boarder": {
-      "value": "{Golden Purple.purple-6}",
-      "type": "color"
-    },
-    "icon": {
-      "value": "{Cyan.cyan-8}",
-      "type": "color"
-    },
-    "": {
-      "value": "{Cyan.cyan-8}",
-      "type": "color"
-    },
-    "shadow": {
-      "value": "rgba(9,109,217,0.4)",
-      "type": "color",
-      "description": "rgba(9, 109, 217, 0.4)"
-    }
-  },
   "text": {
     "default": {
       "value": "{Slate.gray-10}",
