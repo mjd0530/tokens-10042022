@@ -12,7 +12,9 @@
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
       "whct_desert": "disabled",
-      "A_whct": "disabled"
+      "A_whct": "disabled",
+      "Tailwind core": "disabled",
+      "Material core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -29,7 +31,9 @@
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
       "whct_desert": "disabled",
-      "A_whct": "disabled"
+      "A_whct": "disabled",
+      "Tailwind core": "disabled",
+      "Material core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -46,7 +50,9 @@
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
       "whct_desert": "disabled",
-      "A_whct": "disabled"
+      "A_whct": "disabled",
+      "Tailwind core": "disabled",
+      "Material core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -63,7 +69,9 @@
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
       "whct_desert": "disabled",
-      "A_whct": "disabled"
+      "A_whct": "disabled",
+      "Tailwind core": "disabled",
+      "Material core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -80,7 +88,9 @@
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
       "whct_desert": "enabled",
-      "A_whct": "source"
+      "A_whct": "source",
+      "Tailwind core": "disabled",
+      "Material core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -97,7 +107,9 @@
       "whct_night sky": "disabled",
       "whct_dusk": "disabled",
       "whct_aquatic": "enabled",
-      "A_whct": "source"
+      "A_whct": "source",
+      "Tailwind core": "disabled",
+      "Material core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -114,7 +126,9 @@
       "whct_night sky": "disabled",
       "whct_dusk": "enabled",
       "whct_aquatic": "disabled",
-      "A_whct": "source"
+      "A_whct": "source",
+      "Tailwind core": "disabled",
+      "Material core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -131,7 +145,9 @@
       "whct_night sky": "enabled",
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
-      "A_whct": "source"
+      "A_whct": "source",
+      "Tailwind core": "disabled",
+      "Material core": "disabled"
     },
     "$figmaStyleReferences": {}
   }
