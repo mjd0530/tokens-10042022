@@ -152,6 +152,10 @@
     "error-hover": {
       "value": "{error-hover}",
       "type": "color"
+    },
+    "darkest": {
+      "value": "{Slate.gray-10}",
+      "type": "color"
     }
   },
   "shadow": {
@@ -250,6 +254,10 @@
     },
     "warning-lightest": {
       "value": "{Sunset Orange.orange-1}",
+      "type": "color"
+    },
+    "darkest": {
+      "value": "{Slate.gray-10}",
       "type": "color"
     }
   },
