@@ -10,7 +10,7 @@
       "radix": "disabled",
       "radix dark": "disabled",
       "A": "disabled",
-      "B": "source"
+      "B": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -25,7 +25,7 @@
       "radix": "disabled",
       "radix dark": "disabled",
       "A": "disabled",
-      "B": "source"
+      "B": "disabled"
     },
     "$figmaStyleReferences": {}
   },

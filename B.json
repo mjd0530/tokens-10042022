@@ -1,29 +1,5 @@
 {
   "primary": {
-    "background": {
-      "default": {
-        "value": "{Cyan.cyan-8}",
-        "type": "color"
-      },
-      "hover": {
-        "value": "{Cyan.cyan-9}",
-        "type": "color"
-      },
-      "disabled": {
-        "value": "{Cyan.cyan-5}",
-        "type": "color"
-      },
-      "lightest": {
-        "value": "{Cyan.cyan-1}",
-        "type": "color"
-      }
-    },
-    "text": {
-      "default": {
-        "value": "{Slate.gray-1}",
-        "type": "color"
-      }
-    },
     "boarder": {
       "value": "{Golden Purple.purple-6}",
       "type": "color"
@@ -35,6 +11,11 @@
     "": {
       "value": "{Cyan.cyan-8}",
       "type": "color"
+    },
+    "shadow": {
+      "value": "rgba(9,109,217,0.4)",
+      "type": "color",
+      "description": "rgba(9, 109, 217, 0.4)"
     }
   },
   "text": {
@@ -46,12 +27,12 @@
       "value": "{Slate.gray-7}",
       "type": "color"
     },
-    "disabled": {
+    "hint": {
       "value": "{Slate.gray-6}",
       "type": "color"
     },
     "error": {
-      "value": "{Dust Red.red-7}",
+      "value": "{error}",
       "type": "color"
     },
     "onBrand": {
@@ -63,11 +44,15 @@
       "type": "color"
     },
     "brand": {
-      "value": "{brand.}",
+      "value": "{brand}",
       "type": "color"
     },
     "brand-onHover": {
       "value": "{Daybreak Blue.blue-8}",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{Slate.gray-1}",
       "type": "color"
     }
   },
@@ -107,7 +92,7 @@
       "type": "color"
     },
     "brand": {
-      "value": "{brand.}",
+      "value": "{brand}",
       "type": "color"
     },
     "brand-onHover": {
@@ -125,35 +110,13 @@
     "brand_disabled": {
       "value": "{Daybreak Blue.blue-5}",
       "type": "color"
-    }
-  },
-  "background": {
-    "default": {
-      "value": "{Slate.gray-1}",
+    },
+    "error": {
+      "value": "{error}",
       "type": "color"
     },
-    "disabled": {
-      "value": "{Slate.gray-3}",
-      "type": "color"
-    },
-    "canvas": {
-      "value": "{Slate.gray-2}",
-      "type": "color"
-    },
-    "lightest": {
-      "value": "{Slate.gray-3}",
-      "type": "color"
-    },
-    "light": {
-      "value": "{Slate.gray-4}",
-      "type": "color"
-    },
-    "darker": {
-      "value": "{Slate.gray-5}",
-      "type": "color"
-    },
-    "darkest": {
-      "value": "{Slate.gray-10}",
+    "warning": {
+      "value": "{warning}",
       "type": "color"
     }
   },
@@ -167,64 +130,38 @@
       "type": "color"
     },
     "error": {
-      "value": "{Dust Red.red-7}",
+      "value": "{error}",
       "type": "color"
     },
     "brand": {
-      "value": "{brand.}",
+      "value": "{brand}",
       "type": "color"
     },
     "brand-onHover": {
-      "value": "{Daybreak Blue.blue-8}",
+      "value": "{Golden Purple.purple-8}",
+      "type": "color"
+    },
+    "darker": {
+      "value": "{Slate.gray-5}",
+      "type": "color"
+    },
+    "error-hover": {
+      "value": "{error-hover}",
       "type": "color"
     }
   },
-  "brand": {
-    "background": {
-      "default": {
-        "value": "{Daybreak Blue.blue-7}",
-        "type": "color"
-      },
-      "darker": {
-        "value": "{Daybreak Blue.blue-8}",
-        "type": "color"
-      },
-      "lightest": {
-        "value": "{Daybreak Blue.blue-1}",
-        "type": "color"
-      },
-      "onHover": {
-        "value": "{Daybreak Blue.blue-8}",
-        "type": "color"
-      }
-    },
-    "secondary": {
-      "value": "{Sunset Orange.orange-6}",
-      "type": "color"
-    },
-    "boarder": {
-      "value": "{Daybreak Blue.blue-7}",
-      "type": "color"
-    },
-    "text": {
-      "value": "{Daybreak Blue.blue-8}",
-      "type": "color"
-    },
-    "boarder_onHover": {
-      "value": "{Primary.primary-8}",
-      "type": "color"
-    },
-    "": {
-      "value": "{Golden Purple.purple-7}",
-      "type": "color"
-    },
-    "shadow": {
-      "value": "rgba(83,29,171,0.4)",
+  "shadow": {
+    "brand": {
+      "value": "rgba(9,109,217,0.4)",
       "type": "color",
-      "description": "rgba(83, 29, 171, 0.2)"
+      "description": "rgba(9, 109, 217, 0.4)"
     },
-    "dark": {
-      "value": "{Daybreak Blue.blue-5}",
+    "primary": {
+      "value": "rgba(19, 168, 168, 0.4)",
+      "type": "color"
+    },
+    "error": {
+      "value": "rgba(207, 19, 34, 0.4)",
       "type": "color"
     }
   },
@@ -237,12 +174,16 @@
       "value": "{Slate.gray-2}",
       "type": "color"
     },
-    "primary-hover": {
-      "value": "{Cyan.cyan-9}",
-      "type": "color"
-    },
     "primary": {
       "value": "{primary.}",
+      "type": "color"
+    },
+    "primary-lightest": {
+      "value": "{Cyan.cyan-1}",
+      "type": "color"
+    },
+    "primary-hover": {
+      "value": "{Cyan.cyan-9}",
       "type": "color"
     },
     "secondary": {
@@ -253,8 +194,12 @@
       "value": "{Slate.gray-4}",
       "type": "color"
     },
+    "secondary-darker": {
+      "value": "{Slate.gray-6}",
+      "type": "color"
+    },
     "brand": {
-      "value": "{brand.}",
+      "value": "{brand}",
       "type": "color"
     },
     "brand-onHover": {
@@ -262,19 +207,15 @@
       "type": "color"
     },
     "brand-dark": {
-      "value": "{brand.dark}",
+      "value": "{Daybreak Blue.blue-7}",
       "type": "color",
       "description": "Used for headers"
-    },
-    "secondary-darker": {
-      "value": "{Slate.gray-6}",
-      "type": "color"
     },
     "brand-lightest": {
       "value": "{Geek Blue.geekblue-1}",
       "type": "color"
     },
-    "brand-lighter-copy": {
+    "brand-lighter": {
       "value": "{Geek Blue.geekblue-2}",
       "type": "color"
     },
@@ -283,7 +224,11 @@
       "type": "color"
     },
     "error": {
-      "value": "{Dust Red.red-7}",
+      "value": "{error}",
+      "type": "color"
+    },
+    "error-hover": {
+      "value": "{error-hover}",
       "type": "color"
     },
     "focus": {
@@ -294,6 +239,100 @@
       "value": "{Sunset Orange.orange-6}",
       "type": "color",
       "description": "Used for Confirmit icon in Lena Chatbot"
+    },
+    "error-lightest": {
+      "value": "{error-lightest}",
+      "type": "color"
+    },
+    "warning-lightest": {
+      "value": "{Sunset Orange.orange-1}",
+      "type": "color"
     }
+  },
+  "box-shadow-base": {
+    "value": [
+      {
+        "color": "#0000001f",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "3",
+        "blur": "6",
+        "spread": "-4"
+      },
+      {
+        "color": "#00000014",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "6",
+        "blur": "16",
+        "spread": "0"
+      },
+      {
+        "color": "#0000000d",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "9",
+        "blur": "28",
+        "spread": "8"
+      }
+    ],
+    "type": "boxShadow",
+    "description": "Used in all popup menus and modals"
+  },
+  "success-color-outline": {
+    "value": {
+      "color": "#52c41a33",
+      "type": "dropShadow",
+      "x": "0",
+      "y": "0",
+      "blur": "0",
+      "spread": "2"
+    },
+    "type": "boxShadow",
+    "description": "-"
+  },
+  "warning-color-outline": {
+    "value": {
+      "color": "#faad1433",
+      "type": "dropShadow",
+      "x": "0",
+      "y": "0",
+      "blur": "0",
+      "spread": "2"
+    },
+    "type": "boxShadow",
+    "description": "Used in a warning state of all inputs"
+  },
+  "error-color-outline": {
+    "value": {
+      "color": "#f5222d33",
+      "type": "dropShadow",
+      "x": "0",
+      "y": "0",
+      "blur": "0",
+      "spread": "2"
+    },
+    "type": "boxShadow",
+    "description": "Used in an error state of all inputs"
+  },
+  "error": {
+    "value": "{Dust Red.red-7}",
+    "type": "color"
+  },
+  "error-hover": {
+    "value": "{Dust Red.red-8}",
+    "type": "color"
+  },
+  "error-lightest": {
+    "value": "{Dust Red.red-1}",
+    "type": "color"
+  },
+  "brand": {
+    "value": "{Golden Purple.purple-7}",
+    "type": "color"
+  },
+  "warning": {
+    "value": "{Sunset Orange.orange-6}",
+    "type": "color"
   }
 }
