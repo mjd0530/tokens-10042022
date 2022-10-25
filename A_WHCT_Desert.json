@@ -1,0 +1,272 @@
+{
+  "primary": {
+    "boarder": {
+      "value": "{Golden Purple.purple-6}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Cyan.cyan-8}",
+      "type": "color"
+    },
+    "": {
+      "value": "{Cyan.cyan-8}",
+      "type": "color"
+    },
+    "shadow": {
+      "value": "rgba(9,109,217,0.4)",
+      "type": "color",
+      "description": "rgba(9, 109, 217, 0.4)"
+    }
+  },
+  "text": {
+    "default": {
+      "value": "{Slate.gray-10}",
+      "type": "color"
+    },
+    "lightest": {
+      "value": "{Slate.gray-7}",
+      "type": "color"
+    },
+    "hint": {
+      "value": "{Slate.gray-6}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{error}",
+      "type": "color"
+    },
+    "onBrand": {
+      "value": "{Slate.gray-1}",
+      "type": "color"
+    },
+    "ondark": {
+      "value": "{Slate.gray-2}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{Daybreak Blue.blue-8}",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{Slate.gray-1}",
+      "type": "color"
+    }
+  },
+  "secondary": {
+    "background": {
+      "value": "{Slate.gray-4}",
+      "type": "color"
+    },
+    "background_hover": {
+      "value": "{Slate.gray-5}",
+      "type": "color"
+    },
+    "background_darker": {
+      "value": "{Slate.gray-6}",
+      "type": "color"
+    }
+  },
+  "icon": {
+    "default": {
+      "value": "{Slate.gray-10}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{Slate.gray-6}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{primary.}",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{Slate.gray-1}",
+      "type": "color"
+    },
+    "onSecondary": {
+      "value": "{Slate.gray-10}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{Daybreak Blue.blue-8}",
+      "type": "color"
+    },
+    "onBrand": {
+      "value": "{Slate.gray-1}",
+      "type": "color"
+    },
+    "onBrand-dark": {
+      "value": "{Slate.gray-9}",
+      "type": "color"
+    },
+    "brand_disabled": {
+      "value": "{Daybreak Blue.blue-5}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{error}",
+      "type": "color"
+    },
+    "warning": {
+      "value": "{warning}",
+      "type": "color"
+    }
+  },
+  "boarder": {
+    "lightest": {
+      "value": "{Slate.gray-1}",
+      "type": "color"
+    },
+    "light": {
+      "value": "{Slate.gray-3}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{error}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{Daybreak Blue.blue-8}",
+      "type": "color"
+    },
+    "darker": {
+      "value": "{Slate.gray-5}",
+      "type": "color"
+    },
+    "error-hover": {
+      "value": "{error-hover}",
+      "type": "color"
+    }
+  },
+  "shadow": {
+    "brand": {
+      "value": "rgba(9,109,217,0.4)",
+      "type": "color",
+      "description": "rgba(9, 109, 217, 0.4)"
+    },
+    "primary": {
+      "value": "rgba(19, 168, 168, 0.4)",
+      "type": "color"
+    },
+    "error": {
+      "value": "rgba(207, 19, 34, 0.4)",
+      "type": "color"
+    }
+  },
+  "bg": {
+    "canvas": {
+      "value": "{Slate.gray-1}",
+      "type": "color"
+    },
+    "card": {
+      "value": "{Slate.gray-2}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{primary.}",
+      "type": "color"
+    },
+    "primary-lightest": {
+      "value": "{Cyan.cyan-1}",
+      "type": "color"
+    },
+    "primary-hover": {
+      "value": "{Cyan.cyan-9}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{Slate.gray-3}",
+      "type": "color"
+    },
+    "secondary-onHover": {
+      "value": "{Slate.gray-4}",
+      "type": "color"
+    },
+    "secondary-darker": {
+      "value": "{Slate.gray-6}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{Daybreak Blue.blue-8}",
+      "type": "color"
+    },
+    "brand-dark": {
+      "value": "{Daybreak Blue.blue-7}",
+      "type": "color",
+      "description": "Used for headers"
+    },
+    "brand-lightest": {
+      "value": "{Geek Blue.geekblue-1}",
+      "type": "color"
+    },
+    "brand-lighter": {
+      "value": "{Geek Blue.geekblue-2}",
+      "type": "color"
+    },
+    "warning": {
+      "value": "{Sunset Orange.orange-7}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{error}",
+      "type": "color"
+    },
+    "error-hover": {
+      "value": "{error-hover}",
+      "type": "color"
+    },
+    "focus": {
+      "value": "{Golden Purple.purple-6}",
+      "type": "color"
+    },
+    "warning-special": {
+      "value": "{Sunset Orange.orange-6}",
+      "type": "color",
+      "description": "Used for Confirmit icon in Lena Chatbot"
+    },
+    "error-lightest": {
+      "value": "{error-lightest}",
+      "type": "color"
+    },
+    "warning-lightest": {
+      "value": "{Sunset Orange.orange-1}",
+      "type": "color"
+    }
+  },
+  "error": {
+    "value": "{Dust Red.red-7}",
+    "type": "color"
+  },
+  "error-hover": {
+    "value": "{Dust Red.red-8}",
+    "type": "color"
+  },
+  "error-lightest": {
+    "value": "{Dust Red.red-1}",
+    "type": "color"
+  },
+  "brand": {
+    "value": "{Daybreak Blue.blue-7}",
+    "type": "color"
+  },
+  "warning": {
+    "value": "{Sunset Orange.orange-6}",
+    "type": "color"
+  }
+}

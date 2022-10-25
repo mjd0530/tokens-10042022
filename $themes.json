@@ -10,7 +10,9 @@
       "radix": "disabled",
       "radix dark": "disabled",
       "A": "disabled",
-      "B": "disabled"
+      "B": "disabled",
+      "whct": "disabled",
+      "A_WHCT_Desert": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -25,7 +27,9 @@
       "radix": "disabled",
       "radix dark": "disabled",
       "A": "disabled",
-      "B": "disabled"
+      "B": "disabled",
+      "whct": "disabled",
+      "A_WHCT_Desert": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -40,7 +44,9 @@
       "radix dark": "disabled",
       "A": "source",
       "tailwind": "disabled",
-      "B": "disabled"
+      "B": "disabled",
+      "whct": "disabled",
+      "A_WHCT_Desert": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -55,7 +61,30 @@
       "radix dark": "disabled",
       "A": "source",
       "tailwind": "disabled",
-      "B": "disabled"
+      "B": "disabled",
+      "whct": "disabled",
+      "A_WHCT_Desert": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "a5770f645223481f7cd6d9a8e63e8f7e9e25bff5",
+    "name": "A_WHCT_Desert",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "ant light": "disabled",
+      "ant dark": "disabled",
+      "tailwind": "disabled",
+      "radix": "disabled",
+      "radix dark": "disabled",
+      "A": "disabled",
+      "B": "disabled",
+      "ant global": "disabled",
+      "ant tokens dark": "disabled",
+      "ant tokens light": "disabled",
+      "global tw": "disabled",
+      "whct": "enabled",
+      "A_WHCT_Desert": "source"
     },
     "$figmaStyleReferences": {}
   }

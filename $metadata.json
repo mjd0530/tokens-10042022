@@ -11,6 +11,8 @@
     "ant global",
     "ant tokens dark",
     "ant tokens light",
-    "global tw"
+    "global tw",
+    "whct",
+    "A_WHCT_Desert"
   ]
 }
