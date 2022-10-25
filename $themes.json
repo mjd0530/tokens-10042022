@@ -6,16 +6,13 @@
       "core": "enabled",
       "ant light": "disabled",
       "ant dark": "enabled",
-      "tailwind": "disabled",
-      "radix": "disabled",
-      "radix dark": "disabled",
       "A": "disabled",
       "B": "disabled",
       "whct_night sky": "disabled",
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
       "whct_desert": "disabled",
-      "A_WHCT": "disabled"
+      "A_whct": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -26,16 +23,13 @@
       "core": "enabled",
       "ant light": "enabled",
       "ant dark": "disabled",
-      "tailwind": "disabled",
-      "radix": "disabled",
-      "radix dark": "disabled",
       "A": "disabled",
       "B": "disabled",
       "whct_night sky": "disabled",
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
       "whct_desert": "disabled",
-      "A_WHCT": "disabled"
+      "A_whct": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -46,16 +40,13 @@
       "core": "enabled",
       "ant dark": "disabled",
       "ant light": "enabled",
-      "radix": "disabled",
-      "radix dark": "disabled",
       "A": "source",
-      "tailwind": "disabled",
       "B": "disabled",
       "whct_night sky": "disabled",
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
       "whct_desert": "disabled",
-      "A_WHCT": "disabled"
+      "A_whct": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -66,16 +57,13 @@
       "core": "enabled",
       "ant dark": "enabled",
       "ant light": "disabled",
-      "radix": "disabled",
-      "radix dark": "disabled",
       "A": "source",
-      "tailwind": "disabled",
       "B": "disabled",
       "whct_night sky": "disabled",
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
       "whct_desert": "disabled",
-      "A_WHCT": "disabled"
+      "A_whct": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -86,17 +74,13 @@
       "core": "enabled",
       "ant light": "disabled",
       "ant dark": "disabled",
-      "tailwind": "disabled",
-      "radix": "disabled",
-      "radix dark": "disabled",
       "A": "disabled",
       "B": "disabled",
-      "ant global": "disabled",
       "whct_night sky": "disabled",
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
       "whct_desert": "enabled",
-      "A_WHCT": "source"
+      "A_whct": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -107,17 +91,13 @@
       "core": "enabled",
       "ant light": "disabled",
       "ant dark": "disabled",
-      "tailwind": "disabled",
-      "radix": "disabled",
-      "radix dark": "disabled",
       "A": "disabled",
       "B": "disabled",
-      "ant global": "disabled",
-      "A_WHCT": "source",
       "whct_desert": "disabled",
       "whct_night sky": "disabled",
       "whct_dusk": "disabled",
-      "whct_aquatic": "enabled"
+      "whct_aquatic": "enabled",
+      "A_whct": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -128,17 +108,13 @@
       "core": "enabled",
       "ant light": "disabled",
       "ant dark": "disabled",
-      "tailwind": "disabled",
-      "radix": "disabled",
-      "radix dark": "disabled",
       "A": "disabled",
       "B": "disabled",
-      "ant global": "disabled",
-      "A_WHCT": "source",
       "whct_desert": "disabled",
       "whct_night sky": "disabled",
       "whct_dusk": "enabled",
-      "whct_aquatic": "disabled"
+      "whct_aquatic": "disabled",
+      "A_whct": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -149,17 +125,13 @@
       "core": "enabled",
       "ant light": "disabled",
       "ant dark": "disabled",
-      "tailwind": "disabled",
-      "radix": "disabled",
-      "radix dark": "disabled",
       "A": "disabled",
       "B": "disabled",
-      "ant global": "disabled",
-      "A_WHCT": "source",
       "whct_desert": "disabled",
       "whct_night sky": "enabled",
       "whct_dusk": "disabled",
-      "whct_aquatic": "disabled"
+      "whct_aquatic": "disabled",
+      "A_whct": "source"
     },
     "$figmaStyleReferences": {}
   }

@@ -1,0 +1,255 @@
+{
+  "primary": {
+    "boarder": {
+      "value": "{background boarder}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{text}",
+      "type": "color"
+    },
+    "": {
+      "value": "{background}",
+      "type": "color"
+    }
+  },
+  "text": {
+    "default": {
+      "value": "{text}",
+      "type": "color"
+    },
+    "lightest": {
+      "value": "{button text}",
+      "type": "color"
+    },
+    "hint": {
+      "value": "{inactive text}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{text}",
+      "type": "color"
+    },
+    "onBrand": {
+      "value": "{button text}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{bg.brand}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{bg.brand}",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{button text}",
+      "type": "color"
+    }
+  },
+  "secondary": {
+    "background": {
+      "value": "{background}",
+      "type": "color"
+    },
+    "background_hover": {
+      "value": "{background}",
+      "type": "color"
+    },
+    "background_darker": {
+      "value": "{background}",
+      "type": "color"
+    }
+  },
+  "icon": {
+    "default": {
+      "value": "{button text}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{inactive text}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{inactive text}",
+      "type": "color"
+    },
+    "onPrimary": {
+      "value": "{button text}",
+      "type": "color"
+    },
+    "onSecondary": {
+      "value": "{button text}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{button text}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{button text}",
+      "type": "color"
+    },
+    "onBrand": {
+      "value": "{background}",
+      "type": "color"
+    },
+    "onBrand-dark": {
+      "value": "{button text}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{button text}",
+      "type": "color"
+    },
+    "warning": {
+      "value": "{button text}",
+      "type": "color"
+    }
+  },
+  "boarder": {
+    "lightest": {
+      "value": "{background boarder}",
+      "type": "color"
+    },
+    "light": {
+      "value": "{background boarder}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{button text}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{boarder.brand}",
+      "type": "color"
+    },
+    "darker": {
+      "value": "{background boarder}",
+      "type": "color"
+    },
+    "error-hover": {
+      "value": "{background boarder}",
+      "type": "color"
+    }
+  },
+  "shadow": {
+    "brand": {
+      "value": "{bg.brand}",
+      "type": "color",
+      "description": "rgba(9, 109, 217, 0.4)"
+    },
+    "primary": {
+      "value": "{bg.brand}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{bg.brand}",
+      "type": "color"
+    }
+  },
+  "bg": {
+    "canvas": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "card": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{background}",
+      "type": "color"
+    },
+    "primary-lightest": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "primary-hover": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "secondary-onHover": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "secondary-darker": {
+      "value": "{bg.brand}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{boarder.brand}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "brand-dark": {
+      "value": "{brand}",
+      "type": "color",
+      "description": "Used for headers"
+    },
+    "brand-lightest": {
+      "value": "{secondary.background}",
+      "type": "color"
+    },
+    "brand-lighter": {
+      "value": "{background}",
+      "type": "color"
+    },
+    "warning": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{error}",
+      "type": "color"
+    },
+    "error-hover": {
+      "value": "{error-hover}",
+      "type": "color"
+    },
+    "focus": {
+      "value": "{brand}",
+      "type": "color"
+    },
+    "warning-special": {
+      "value": "{brand}",
+      "type": "color",
+      "description": "Used for Confirmit icon in Lena Chatbot"
+    },
+    "error-lightest": {
+      "value": "{error-lightest}",
+      "type": "color"
+    },
+    "warning-lightest": {
+      "value": "{brand}",
+      "type": "color"
+    }
+  },
+  "error": {
+    "value": "{background}",
+    "type": "color"
+  },
+  "error-hover": {
+    "value": "{background}",
+    "type": "color"
+  },
+  "error-lightest": {
+    "value": "{background}",
+    "type": "color"
+  },
+  "brand": {
+    "value": "{background}",
+    "type": "color"
+  },
+  "warning": {
+    "value": "{background}",
+    "type": "color"
+  }
+}

@@ -3,18 +3,12 @@
     "core",
     "ant light",
     "ant dark",
-    "tailwind",
-    "radix",
-    "radix dark",
     "A",
     "B",
-    "ant global",
-    "A_WHCT",
+    "A_whct",
     "whct_desert",
     "whct_night sky",
     "whct_dusk",
-    "whct_aquatic",
-    "A_WHCT_Desert",
-    "whct"
+    "whct_aquatic"
   ]
 }
