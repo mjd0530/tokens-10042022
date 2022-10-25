@@ -118,6 +118,10 @@
     "warning": {
       "value": "{warning}",
       "type": "color"
+    },
+    "success": {
+      "value": "{primary.}",
+      "type": "color"
     }
   },
   "boarder": {

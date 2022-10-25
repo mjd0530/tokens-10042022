@@ -4,15 +4,15 @@
     "name": "BD",
     "selectedTokenSets": {
       "core": "enabled",
-      "ant light": "disabled",
-      "ant dark": "enabled",
       "A": "disabled",
       "B": "disabled",
       "whct_night sky": "disabled",
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
       "whct_desert": "disabled",
-      "A_whct": "disabled"
+      "A_whct": "disabled",
+      "core light": "disabled",
+      "core dark": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -21,15 +21,15 @@
     "name": "BL",
     "selectedTokenSets": {
       "core": "enabled",
-      "ant light": "enabled",
-      "ant dark": "disabled",
       "A": "disabled",
       "B": "disabled",
       "whct_night sky": "disabled",
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
       "whct_desert": "disabled",
-      "A_whct": "disabled"
+      "A_whct": "disabled",
+      "core light": "enabled",
+      "core dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -38,15 +38,15 @@
     "name": "AL",
     "selectedTokenSets": {
       "core": "enabled",
-      "ant dark": "disabled",
-      "ant light": "enabled",
       "A": "source",
       "B": "disabled",
       "whct_night sky": "disabled",
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
       "whct_desert": "disabled",
-      "A_whct": "disabled"
+      "A_whct": "disabled",
+      "core light": "enabled",
+      "core dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -55,15 +55,15 @@
     "name": "AD",
     "selectedTokenSets": {
       "core": "enabled",
-      "ant dark": "enabled",
-      "ant light": "disabled",
       "A": "source",
       "B": "disabled",
       "whct_night sky": "disabled",
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
       "whct_desert": "disabled",
-      "A_whct": "disabled"
+      "A_whct": "disabled",
+      "core light": "disabled",
+      "core dark": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -72,15 +72,15 @@
     "name": "whct_desert",
     "selectedTokenSets": {
       "core": "enabled",
-      "ant light": "disabled",
-      "ant dark": "disabled",
       "A": "disabled",
       "B": "disabled",
       "whct_night sky": "disabled",
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
       "whct_desert": "enabled",
-      "A_whct": "source"
+      "A_whct": "source",
+      "core light": "disabled",
+      "core dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -89,15 +89,15 @@
     "name": "whct_aquatic",
     "selectedTokenSets": {
       "core": "enabled",
-      "ant light": "disabled",
-      "ant dark": "disabled",
       "A": "disabled",
       "B": "disabled",
       "whct_desert": "disabled",
       "whct_night sky": "disabled",
       "whct_dusk": "disabled",
       "whct_aquatic": "enabled",
-      "A_whct": "source"
+      "A_whct": "source",
+      "core light": "disabled",
+      "core dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -106,15 +106,15 @@
     "name": "whct_dusk",
     "selectedTokenSets": {
       "core": "enabled",
-      "ant light": "disabled",
-      "ant dark": "disabled",
       "A": "disabled",
       "B": "disabled",
       "whct_desert": "disabled",
       "whct_night sky": "disabled",
       "whct_dusk": "enabled",
       "whct_aquatic": "disabled",
-      "A_whct": "source"
+      "A_whct": "source",
+      "core light": "disabled",
+      "core dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -123,15 +123,15 @@
     "name": "whct_night sky",
     "selectedTokenSets": {
       "core": "enabled",
-      "ant light": "disabled",
-      "ant dark": "disabled",
       "A": "disabled",
       "B": "disabled",
       "whct_desert": "disabled",
       "whct_night sky": "enabled",
       "whct_dusk": "disabled",
       "whct_aquatic": "disabled",
-      "A_whct": "source"
+      "A_whct": "source",
+      "core light": "disabled",
+      "core dark": "disabled"
     },
     "$figmaStyleReferences": {}
   }
