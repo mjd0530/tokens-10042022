@@ -100,7 +100,7 @@
       "type": "color"
     },
     "onBrand": {
-      "value": "{Slate.gray-1}",
+      "value": "{bg.canvas}",
       "type": "color"
     },
     "onBrand-dark": {
@@ -171,7 +171,7 @@
       "type": "color"
     },
     "card": {
-      "value": "{Slate.gray-2}",
+      "value": "{Extra.white}",
       "type": "color"
     },
     "primary": {
@@ -246,6 +246,10 @@
     },
     "warning-lightest": {
       "value": "{Sunset Orange.orange-1}",
+      "type": "color"
+    },
+    "onBrand": {
+      "value": "{Slate.gray-1}",
       "type": "color"
     }
   },

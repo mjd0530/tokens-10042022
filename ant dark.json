@@ -551,9 +551,9 @@
       "description": "Normal"
     },
     "blue-7": {
-      "value": "#3c9ae8",
+      "value": "#1765ad",
       "type": "color",
-      "description": "Click"
+      "description": "Edited for dark mode blue brand\n"
     },
     "blue-8": {
       "value": "#65b7f3",
@@ -729,9 +729,9 @@
   },
   "Extra": {
     "white": {
-      "value": "#ffffff",
+      "value": "{Slate.gray-2}",
       "type": "color",
-      "description": "White text (in Dark Theme)"
+      "description": "Dark card in dark theme"
     },
     "component-background": {
       "value": "#1f1f1f",
