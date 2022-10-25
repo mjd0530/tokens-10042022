@@ -9,13 +9,12 @@
     "A",
     "B",
     "ant global",
-    "ant tokens dark",
-    "ant tokens light",
-    "global tw",
     "A_WHCT",
     "whct_desert",
     "whct_night sky",
     "whct_dusk",
-    "whct_aquatic"
+    "whct_aquatic",
+    "A_WHCT_Desert",
+    "whct"
   ]
 }
