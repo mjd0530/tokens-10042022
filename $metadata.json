@@ -12,6 +12,8 @@
     "whct_aquatic",
     "Tailwind core",
     "Material core",
-    "Radix core"
+    "Radix core",
+    "Radix core light",
+    "Radix core dark"
   ]
 }

@@ -15,7 +15,9 @@
       "A_whct": "disabled",
       "Tailwind core": "disabled",
       "Material core": "disabled",
-      "Radix core": "disabled"
+      "Radix core": "disabled",
+      "Radix core light": "disabled",
+      "Radix core dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -35,47 +37,9 @@
       "A_whct": "disabled",
       "Tailwind core": "disabled",
       "Material core": "disabled",
-      "Radix core": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "2e8987e5942922d7483a7f24741ab6a60e31bed5",
-    "name": "AL",
-    "selectedTokenSets": {
-      "core": "enabled",
-      "ant dark": "disabled",
-      "ant light": "enabled",
-      "A": "source",
-      "B": "disabled",
-      "whct_night sky": "disabled",
-      "whct_dusk": "disabled",
-      "whct_aquatic": "disabled",
-      "whct_desert": "disabled",
-      "A_whct": "disabled",
-      "Tailwind core": "disabled",
-      "Material core": "disabled",
-      "Radix core": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "6422d58441bd5c440a4ba87d0afd93c971fc9941",
-    "name": "AD",
-    "selectedTokenSets": {
-      "core": "enabled",
-      "ant dark": "enabled",
-      "ant light": "disabled",
-      "A": "source",
-      "B": "disabled",
-      "whct_night sky": "disabled",
-      "whct_dusk": "disabled",
-      "whct_aquatic": "disabled",
-      "whct_desert": "disabled",
-      "A_whct": "disabled",
-      "Tailwind core": "disabled",
-      "Material core": "disabled",
-      "Radix core": "disabled"
+      "Radix core": "disabled",
+      "Radix core light": "disabled",
+      "Radix core dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -95,7 +59,9 @@
       "A_whct": "source",
       "Tailwind core": "disabled",
       "Material core": "disabled",
-      "Radix core": "disabled"
+      "Radix core": "disabled",
+      "Radix core light": "disabled",
+      "Radix core dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -115,7 +81,9 @@
       "A_whct": "source",
       "Tailwind core": "disabled",
       "Material core": "disabled",
-      "Radix core": "disabled"
+      "Radix core": "disabled",
+      "Radix core light": "disabled",
+      "Radix core dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -135,7 +103,9 @@
       "A_whct": "source",
       "Tailwind core": "disabled",
       "Material core": "disabled",
-      "Radix core": "disabled"
+      "Radix core": "disabled",
+      "Radix core light": "disabled",
+      "Radix core dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -155,7 +125,53 @@
       "A_whct": "source",
       "Tailwind core": "disabled",
       "Material core": "disabled",
-      "Radix core": "disabled"
+      "Radix core": "disabled",
+      "Radix core light": "disabled",
+      "Radix core dark": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "2e8987e5942922d7483a7f24741ab6a60e31bed5",
+    "name": "AL",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "ant dark": "disabled",
+      "ant light": "disabled",
+      "A": "source",
+      "B": "disabled",
+      "whct_night sky": "disabled",
+      "whct_dusk": "disabled",
+      "whct_aquatic": "disabled",
+      "whct_desert": "disabled",
+      "A_whct": "disabled",
+      "Tailwind core": "disabled",
+      "Material core": "disabled",
+      "Radix core": "enabled",
+      "Radix core light": "enabled",
+      "Radix core dark": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "6422d58441bd5c440a4ba87d0afd93c971fc9941",
+    "name": "AD",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "ant dark": "enabled",
+      "ant light": "disabled",
+      "A": "source",
+      "B": "disabled",
+      "whct_night sky": "disabled",
+      "whct_dusk": "disabled",
+      "whct_aquatic": "disabled",
+      "whct_desert": "disabled",
+      "A_whct": "disabled",
+      "Tailwind core": "disabled",
+      "Material core": "disabled",
+      "Radix core": "enabled",
+      "Radix core light": "disabled",
+      "Radix core dark": "enabled"
     },
     "$figmaStyleReferences": {}
   }

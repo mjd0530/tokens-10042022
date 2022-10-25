@@ -44,7 +44,7 @@
       "type": "color"
     },
     "brand": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color"
     },
     "brand-onHover": {
@@ -92,7 +92,7 @@
       "type": "color"
     },
     "brand": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color"
     },
     "brand-onHover": {
@@ -134,7 +134,7 @@
       "type": "color"
     },
     "brand": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color"
     },
     "brand-onHover": {
@@ -199,7 +199,7 @@
       "type": "color"
     },
     "brand": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color"
     },
     "brand-onHover": {

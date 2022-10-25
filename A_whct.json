@@ -150,11 +150,11 @@
   },
   "bg": {
     "canvas": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color"
     },
     "card": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color"
     },
     "primary": {
@@ -162,19 +162,19 @@
       "type": "color"
     },
     "primary-lightest": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color"
     },
     "primary-hover": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color"
     },
     "secondary": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color"
     },
     "secondary-onHover": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color"
     },
     "secondary-darker": {
@@ -186,11 +186,11 @@
       "type": "color"
     },
     "brand-onHover": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color"
     },
     "brand-dark": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color",
       "description": "Used for headers"
     },
@@ -203,7 +203,7 @@
       "type": "color"
     },
     "warning": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color"
     },
     "error": {
@@ -215,11 +215,11 @@
       "type": "color"
     },
     "focus": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color"
     },
     "warning-special": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color",
       "description": "Used for Confirmit icon in Lena Chatbot"
     },
@@ -228,7 +228,7 @@
       "type": "color"
     },
     "warning-lightest": {
-      "value": "{brand}",
+      "value": "{brand-onHover}",
       "type": "color"
     }
   },
