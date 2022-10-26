@@ -25,9 +25,13 @@
       "type": "color"
     },
     "onFocus": {
-      "value": "{Indigo.Alpha.6}",
+      "value": "{Indigo.Alpha.4}",
       "type": "color",
       "description": "Use for input and button focus definitions"
+    },
+    "lightest": {
+      "value": "{Indigo.12}",
+      "type": "color"
     }
   },
   "bg": {
@@ -62,7 +66,7 @@
       "type": "color"
     },
     "brand": {
-      "value": "{brand.defualt}",
+      "value": "{brand.lightest}",
       "type": "color"
     },
     "onSecondary": {
@@ -70,7 +74,7 @@
       "type": "color"
     },
     "brand-onHover": {
-      "value": "{brand.onHover}",
+      "value": "{brand.lightest}",
       "type": "color"
     }
   },
@@ -79,7 +83,7 @@
       "x": "0",
       "y": "0",
       "blur": "0",
-      "spread": "2",
+      "spread": "4",
       "color": "{brand.onFocus}",
       "type": "dropShadow"
     },
