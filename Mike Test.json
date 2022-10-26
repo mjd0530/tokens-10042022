@@ -1,0 +1,44 @@
+{
+  "Default": {
+    "value": "Inter",
+    "type": "fontFamilies"
+  },
+  "Bold": {
+    "value": "bold",
+    "type": "fontWeights"
+  },
+  "Regular": {
+    "value": "regular",
+    "type": "fontWeights"
+  },
+  "typography": {
+    "h1": {
+      "Bold": {
+        "value": {
+          "fontFamily": "{Default}",
+          "fontWeight": "{Bold}",
+          "fontSize": "{fontsize.base}"
+        },
+        "type": "typography"
+      },
+      "Regular": {
+        "value": {
+          "fontWeight": "{Regular}"
+        },
+        "type": "typography"
+      }
+    }
+  },
+  "size": {
+    "base": {
+      "value": "16",
+      "type": "sizing"
+    }
+  },
+  "fontsize": {
+    "base": {
+      "value": "16",
+      "type": "fontSizes"
+    }
+  }
+}
