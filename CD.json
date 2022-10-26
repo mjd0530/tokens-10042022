@@ -5,7 +5,7 @@
       "type": "color"
     },
     "onHover": {
-      "value": "{Indigo.7}",
+      "value": "{Indigo.10}",
       "type": "color"
     },
     "onBrand": {
@@ -13,11 +13,11 @@
       "type": "color"
     },
     "secondary": {
-      "value": "{Slate.4}",
+      "value": "{Slate.6}",
       "type": "color"
     },
     "Secondary-onHover": {
-      "value": "{Slate.6}",
+      "value": "{Slate.4}",
       "type": "color"
     },
     "onSecondary": {
@@ -25,12 +25,16 @@
       "type": "color"
     },
     "onFocus": {
-      "value": "{Indigo.Alpha.4}",
+      "value": "{Indigo.Alpha.6}",
       "type": "color",
       "description": "Use for input and button focus definitions"
     },
     "lightest": {
       "value": "{Indigo.12}",
+      "type": "color"
+    },
+    "alpha-lightest": {
+      "value": "{Indigo.Alpha.3}",
       "type": "color"
     }
   },
@@ -54,6 +58,12 @@
     "brand-secondary-onHover": {
       "value": "{brand.Secondary-onHover}",
       "type": "color"
+    },
+    "brand-alpha": {
+      "lightest": {
+        "value": "{Indigo.Alpha.2}",
+        "type": "color"
+      }
     }
   },
   "text": {
@@ -66,7 +76,7 @@
       "type": "color"
     },
     "brand": {
-      "value": "{brand.lightest}",
+      "value": "{brand.defualt}",
       "type": "color"
     },
     "onSecondary": {
@@ -74,7 +84,7 @@
       "type": "color"
     },
     "brand-onHover": {
-      "value": "{brand.lightest}",
+      "value": "{brand.alpha-lightest}",
       "type": "color"
     }
   },
