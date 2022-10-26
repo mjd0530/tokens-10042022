@@ -13,11 +13,11 @@
       "type": "color"
     },
     "secondary": {
-      "value": "{Slate.6}",
+      "value": "{Slate.8}",
       "type": "color"
     },
     "Secondary-onHover": {
-      "value": "{Slate.4}",
+      "value": "{Slate.10}",
       "type": "color"
     },
     "onSecondary": {

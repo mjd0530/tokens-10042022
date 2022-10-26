@@ -28,6 +28,10 @@
       "value": "{Indigo.Alpha.6}",
       "type": "color",
       "description": "Use for input and button focus definitions"
+    },
+    "lighter": {
+      "value": "{Indigo.10}",
+      "type": "color"
     }
   },
   "bg": {
@@ -49,6 +53,10 @@
     },
     "brand-secondary-onHover": {
       "value": "{brand.Secondary-onHover}",
+      "type": "color"
+    },
+    "brand-lighter": {
+      "value": "{brand.lighter}",
       "type": "color"
     }
   },
