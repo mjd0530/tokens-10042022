@@ -41,8 +41,8 @@
       "value": "{Red.9}",
       "type": "color"
     },
-    "error-focus": {
-      "value": "{Red.Alpha.6}",
+    "error-alpha-lightest": {
+      "value": "{Red.Alpha.2}",
       "type": "color"
     }
   },
@@ -96,7 +96,7 @@
       "type": "color"
     },
     "lightest": {
-      "value": "{Slate.9}",
+      "value": "{Slate.11}",
       "type": "color"
     }
   },
@@ -135,7 +135,7 @@
       "y": "0",
       "blur": "0",
       "spread": "4",
-      "color": "{brand.error-focus}",
+      "color": "{brand.error-alpha-lightest}",
       "type": "dropShadow"
     },
     "type": "boxShadow"
