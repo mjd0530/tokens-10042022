@@ -1,44 +1,56 @@
 {
-  "Default": {
-    "value": "Inter",
-    "type": "fontFamilies"
-  },
-  "Bold": {
-    "value": "bold",
-    "type": "fontWeights"
-  },
-  "Regular": {
-    "value": "regular",
-    "type": "fontWeights"
+  "fontfamily": {
+    "Inter": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "default": {
+      "value": "{fontfamily.segoe}",
+      "type": "fontFamilies"
+    },
+    "roboto": {
+      "value": "Roboto",
+      "type": "fontFamilies"
+    },
+    "segoe": {
+      "value": "Segoe UI",
+      "type": "fontFamilies"
+    }
   },
   "typography": {
     "h1": {
-      "Bold": {
+      "bold": {
         "value": {
-          "fontFamily": "{Default}",
-          "fontWeight": "{Bold}",
-          "fontSize": "{fontsize.base}"
+          "fontFamily": "{fontfamily.default}",
+          "fontWeight": "Bold",
+          "fontSize": "32"
         },
         "type": "typography"
       },
-      "Regular": {
+      "semi bold": {
         "value": {
-          "fontWeight": "{Regular}"
+          "fontFamily": "{fontfamily.default}",
+          "fontWeight": "Semi Bold",
+          "fontSize": "32"
+        },
+        "type": "typography"
+      },
+      "regular": {
+        "value": {
+          "fontFamily": "{fontfamily.default}",
+          "fontWeight": "Regular",
+          "fontSize": "32"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "{fontfamily.default}",
+          "fontWeight": "medium",
+          "fontSize": "32"
         },
         "type": "typography"
       }
-    }
-  },
-  "size": {
-    "base": {
-      "value": "16",
-      "type": "sizing"
-    }
-  },
-  "fontsize": {
-    "base": {
-      "value": "16",
-      "type": "fontSizes"
     }
   }
 }

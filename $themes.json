@@ -13,7 +13,6 @@
       "A_whct": "disabled",
       "core light": "disabled",
       "core dark": "enabled",
-      "chakra": "disabled",
       "Mike Test": "disabled"
     },
     "$figmaStyleReferences": {}
@@ -32,7 +31,6 @@
       "A_whct": "disabled",
       "core light": "enabled",
       "core dark": "disabled",
-      "chakra": "disabled",
       "Mike Test": "disabled"
     },
     "$figmaStyleReferences": {}
@@ -51,7 +49,6 @@
       "A_whct": "disabled",
       "core light": "enabled",
       "core dark": "disabled",
-      "chakra": "disabled",
       "Mike Test": "disabled"
     },
     "$figmaStyleReferences": {}
@@ -70,7 +67,6 @@
       "A_whct": "disabled",
       "core light": "disabled",
       "core dark": "enabled",
-      "chakra": "disabled",
       "Mike Test": "disabled"
     },
     "$figmaStyleReferences": {}
@@ -89,7 +85,6 @@
       "A_whct": "source",
       "core light": "disabled",
       "core dark": "disabled",
-      "chakra": "disabled",
       "Mike Test": "disabled"
     },
     "$figmaStyleReferences": {}
@@ -108,7 +103,6 @@
       "A_whct": "source",
       "core light": "disabled",
       "core dark": "disabled",
-      "chakra": "disabled",
       "Mike Test": "disabled"
     },
     "$figmaStyleReferences": {}
@@ -127,7 +121,6 @@
       "A_whct": "source",
       "core light": "disabled",
       "core dark": "disabled",
-      "chakra": "disabled",
       "Mike Test": "disabled"
     },
     "$figmaStyleReferences": {}
@@ -146,7 +139,6 @@
       "A_whct": "source",
       "core light": "disabled",
       "core dark": "disabled",
-      "chakra": "disabled",
       "Mike Test": "disabled"
     },
     "$figmaStyleReferences": {}
