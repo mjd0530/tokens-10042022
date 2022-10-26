@@ -1,11 +1,14 @@
 {
   "tokenSetOrder": [
     "core",
+    "cake core light",
+    "cake core dark",
     "ant light",
     "ant dark",
     "A",
     "B",
-    "C",
+    "CL",
+    "CD",
     "A_whct",
     "whct_desert",
     "whct_night sky",

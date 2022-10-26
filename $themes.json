@@ -18,7 +18,10 @@
       "Radix core": "disabled",
       "Radix core light": "disabled",
       "Radix core dark": "disabled",
-      "C": "disabled"
+      "cake core light": "disabled",
+      "cake core dark": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -41,7 +44,10 @@
       "Radix core": "disabled",
       "Radix core light": "disabled",
       "Radix core dark": "disabled",
-      "C": "disabled"
+      "cake core light": "disabled",
+      "cake core dark": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -64,7 +70,10 @@
       "Radix core": "disabled",
       "Radix core light": "disabled",
       "Radix core dark": "disabled",
-      "C": "disabled"
+      "cake core light": "disabled",
+      "cake core dark": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -87,7 +96,10 @@
       "Radix core": "disabled",
       "Radix core light": "disabled",
       "Radix core dark": "disabled",
-      "C": "disabled"
+      "cake core light": "disabled",
+      "cake core dark": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -110,7 +122,10 @@
       "Radix core": "disabled",
       "Radix core light": "disabled",
       "Radix core dark": "disabled",
-      "C": "disabled"
+      "cake core light": "disabled",
+      "cake core dark": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -133,7 +148,10 @@
       "Radix core": "enabled",
       "Radix core light": "enabled",
       "Radix core dark": "disabled",
-      "C": "disabled"
+      "cake core light": "disabled",
+      "cake core dark": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -156,7 +174,10 @@
       "Radix core": "enabled",
       "Radix core light": "disabled",
       "Radix core dark": "enabled",
-      "C": "disabled"
+      "cake core light": "disabled",
+      "cake core dark": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -179,7 +200,36 @@
       "Radix core": "disabled",
       "Radix core light": "disabled",
       "Radix core dark": "enabled",
-      "C": "disabled"
+      "cake core light": "disabled",
+      "cake core dark": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "c720070092c659cadd39a5512e3e8831d2257777",
+    "name": "CD",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "ant light": "disabled",
+      "ant dark": "disabled",
+      "A": "disabled",
+      "B": "disabled",
+      "A_whct": "disabled",
+      "whct_desert": "disabled",
+      "whct_night sky": "disabled",
+      "whct_dusk": "disabled",
+      "whct_aquatic": "disabled",
+      "Tailwind core": "disabled",
+      "Material core": "disabled",
+      "Radix core": "disabled",
+      "Radix core light": "disabled",
+      "Radix core dark": "enabled",
+      "cake core light": "disabled",
+      "cake core dark": "disabled",
+      "CL": "disabled",
+      "CD": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -202,30 +252,10 @@
       "Radix core": "disabled",
       "Radix core light": "enabled",
       "Radix core dark": "disabled",
-      "C": "source"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "c720070092c659cadd39a5512e3e8831d2257777",
-    "name": "CD",
-    "selectedTokenSets": {
-      "core": "enabled",
-      "ant light": "disabled",
-      "ant dark": "disabled",
-      "A": "disabled",
-      "B": "disabled",
-      "C": "source",
-      "A_whct": "disabled",
-      "whct_desert": "disabled",
-      "whct_night sky": "disabled",
-      "whct_dusk": "disabled",
-      "whct_aquatic": "disabled",
-      "Tailwind core": "disabled",
-      "Material core": "disabled",
-      "Radix core": "disabled",
-      "Radix core light": "disabled",
-      "Radix core dark": "enabled"
+      "cake core light": "disabled",
+      "cake core dark": "disabled",
+      "CL": "source",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {}
   }
