@@ -626,7 +626,7 @@
       "y": "0",
       "blur": "0",
       "spread": "2",
-      "color": "{shadow.brand}",
+      "color": "{brand.onFocus}",
       "type": "dropShadow"
     },
     "type": "boxShadow"

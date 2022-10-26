@@ -173,7 +173,7 @@
       "type": "color"
     },
     "secondary": {
-      "value": "{secondary}",
+      "value": "{brand.secondary}",
       "type": "color"
     },
     "secondary-onHover": {

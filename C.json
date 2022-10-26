@@ -1,0 +1,88 @@
+{
+  "brand": {
+    "defualt": {
+      "value": "{Indigo.9}",
+      "type": "color"
+    },
+    "onHover": {
+      "value": "{Indigo.11}",
+      "type": "color"
+    },
+    "onBrand": {
+      "value": "{Indigo.1}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{Slate.4}",
+      "type": "color"
+    },
+    "Secondary-onHover": {
+      "value": "{Slate.6}",
+      "type": "color"
+    },
+    "onSecondary": {
+      "value": "{Gray.12}",
+      "type": "color"
+    },
+    "onFocus": {
+      "value": "{Indigo.Alpha.6}",
+      "type": "color",
+      "description": "Use for input and button focus definitions"
+    }
+  },
+  "bg": {
+    "canvas": {
+      "value": "{Slate.1}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{brand.defualt}",
+      "type": "color"
+    },
+    "onHover": {
+      "value": "{brand.onHover}",
+      "type": "color"
+    },
+    "brand-secondary": {
+      "value": "{brand.secondary}",
+      "type": "color"
+    },
+    "brand-secondary-onHover": {
+      "value": "{brand.Secondary-onHover}",
+      "type": "color"
+    }
+  },
+  "text": {
+    "default": {
+      "value": "{Mauve.12}",
+      "type": "color"
+    },
+    "onBrand": {
+      "value": "{brand.onBrand}",
+      "type": "color"
+    },
+    "brand": {
+      "value": "{brand.defualt}",
+      "type": "color"
+    },
+    "onSecondary": {
+      "value": "{brand.onSecondary}",
+      "type": "color"
+    },
+    "brand-onHover": {
+      "value": "{brand.onHover}",
+      "type": "color"
+    }
+  },
+  "onFocus": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "0",
+      "spread": "2",
+      "color": "{brand.onFocus}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  }
+}
