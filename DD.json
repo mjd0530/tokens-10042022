@@ -1,23 +1,23 @@
 {
   "brand": {
     "defualt": {
-      "value": "{Indigo.9}",
+      "value": "{Cyan.9}",
       "type": "color"
     },
     "onHover": {
-      "value": "{Indigo.10}",
+      "value": "{Cyan.11}",
       "type": "color"
     },
     "onBrand": {
-      "value": "{Indigo.12}",
+      "value": "{Cyan.1}",
       "type": "color"
     },
     "secondary": {
-      "value": "{Slate.4}",
+      "value": "{Slate.3}",
       "type": "color"
     },
     "Secondary-onHover": {
-      "value": "{Slate.6}",
+      "value": "{Slate.5}",
       "type": "color"
     },
     "onSecondary": {
@@ -25,16 +25,24 @@
       "type": "color"
     },
     "onFocus": {
-      "value": "{Indigo.Alpha.6}",
+      "value": "{Cyan.Alpha.6}",
       "type": "color",
       "description": "Use for input and button focus definitions"
     },
     "lightest": {
-      "value": "{Indigo.12}",
+      "value": "{Cyan.12}",
       "type": "color"
     },
     "alpha-lightest": {
-      "value": "{Indigo.Alpha.3}",
+      "value": "{Cyan.Alpha.3}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{Red.9}",
+      "type": "color"
+    },
+    "error-focus": {
+      "value": "{Red.Alpha.6}",
       "type": "color"
     }
   },
@@ -61,7 +69,7 @@
     },
     "brand-alpha": {
       "lightest": {
-        "value": "{Indigo.Alpha.2}",
+        "value": "{Cyan.Alpha.2}",
         "type": "color"
       }
     }
@@ -86,6 +94,10 @@
     "brand-onHover": {
       "value": "{brand.alpha-lightest}",
       "type": "color"
+    },
+    "lightest": {
+      "value": "{Slate.9}",
+      "type": "color"
     }
   },
   "onFocus": {
@@ -95,6 +107,35 @@
       "blur": "0",
       "spread": "4",
       "color": "{brand.onFocus}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "boarder": {
+    "brand": {
+      "value": "{brand.defualt}",
+      "type": "color"
+    },
+    "default": {
+      "value": "{Slate.8}",
+      "type": "color"
+    },
+    "default-lighter": {
+      "value": "{Slate.10}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{brand.error}",
+      "type": "color"
+    }
+  },
+  "onFocus-error": {
+    "value": {
+      "x": "0",
+      "y": "0",
+      "blur": "0",
+      "spread": "4",
+      "color": "{brand.error-focus}",
       "type": "dropShadow"
     },
     "type": "boxShadow"
