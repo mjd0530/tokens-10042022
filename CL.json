@@ -8,6 +8,19 @@
       "value": "{Indigo.11}",
       "type": "color"
     },
+    "onFocus": {
+      "value": "{Indigo.Alpha.6}",
+      "type": "color",
+      "description": "Use for input and button focus definitions"
+    },
+    "lighter": {
+      "value": "{Indigo.10}",
+      "type": "color"
+    },
+    "alpha-lightest": {
+      "value": "{Indigo.Alpha.1}",
+      "type": "color"
+    },
     "onBrand": {
       "value": "{Indigo.1}",
       "type": "color"
@@ -22,15 +35,6 @@
     },
     "onSecondary": {
       "value": "{Gray.12}",
-      "type": "color"
-    },
-    "onFocus": {
-      "value": "{Indigo.Alpha.6}",
-      "type": "color",
-      "description": "Use for input and button focus definitions"
-    },
-    "lighter": {
-      "value": "{Indigo.10}",
       "type": "color"
     }
   },
@@ -47,6 +51,10 @@
       "value": "{brand.onHover}",
       "type": "color"
     },
+    "brand-lighter": {
+      "value": "{brand.lighter}",
+      "type": "color"
+    },
     "brand-secondary": {
       "value": "{brand.secondary}",
       "type": "color"
@@ -55,9 +63,11 @@
       "value": "{brand.Secondary-onHover}",
       "type": "color"
     },
-    "brand-lighter": {
-      "value": "{brand.lighter}",
-      "type": "color"
+    "brand-alpha": {
+      "lightest": {
+        "value": "{Indigo.Alpha.2}",
+        "type": "color"
+      }
     }
   },
   "text": {
