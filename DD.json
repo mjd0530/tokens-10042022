@@ -44,6 +44,10 @@
     "error-alpha-lightest": {
       "value": "{Red.Alpha.2}",
       "type": "color"
+    },
+    "alpha-light": {
+      "value": "{Cyan.Alpha.4}",
+      "type": "color"
     }
   },
   "bg": {
@@ -86,6 +90,10 @@
     "brand-alpha": {
       "lightest": {
         "value": "{brand.alpha-lightest}",
+        "type": "color"
+      },
+      "light": {
+        "value": "{brand.alpha-light}",
         "type": "color"
       }
     }
