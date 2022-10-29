@@ -55,6 +55,10 @@
       "value": "{Slate.2}",
       "type": "color"
     },
+    "secondary-darkest": {
+      "value": "{Slate.12}",
+      "type": "color"
+    },
     "brand": {
       "value": "{brand.defualt}",
       "type": "color"

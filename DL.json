@@ -67,6 +67,10 @@
       "value": "{brand.canvas}",
       "type": "color"
     },
+    "secondary-darkest": {
+      "value": "{Slate.12}",
+      "type": "color"
+    },
     "brand": {
       "value": "{brand.defualt}",
       "type": "color"
@@ -79,7 +83,7 @@
       "value": "{brand.onHover}",
       "type": "color"
     },
-    "brand-secondary": {
+    "secondary": {
       "value": "{brand.secondary}",
       "type": "color"
     },
