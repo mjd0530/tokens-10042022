@@ -56,7 +56,7 @@
       "type": "color"
     },
     "brand-secondary-onHover": {
-      "value": "{brand.Secondary-onHover}",
+      "value": "{brand.secondary-onHover}",
       "type": "color"
     },
     "onHover": {
