@@ -42,7 +42,7 @@
       "type": "color"
     },
     "error": {
-      "value": "{Red.9}",
+      "value": "{Red.10}",
       "type": "color"
     },
     "error-alpha-lightest": {
@@ -136,7 +136,7 @@
       "type": "color"
     },
     "onSuccess": {
-      "value": "{Mint.9}",
+      "value": "{Mint.11}",
       "type": "color"
     },
     "onError": {

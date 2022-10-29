@@ -16,7 +16,7 @@
       "value": "{Slate.3}",
       "type": "color"
     },
-    "Secondary-onHover": {
+    "secondary-onHover": {
       "value": "{Slate.5}",
       "type": "color"
     },
@@ -38,24 +38,40 @@
       "type": "color"
     },
     "error": {
-      "value": "{Red.9}",
+      "value": "{Red.11}",
       "type": "color"
     },
     "error-alpha-lightest": {
       "value": "{Red.Alpha.2}",
       "type": "color"
+    },
+    "warning": {
+      "value": "{Orange.10}",
+      "type": "color"
+    },
+    "success": {
+      "value": "{Mint.11}",
+      "type": "color"
+    },
+    "info": {
+      "value": "{Blue.11}",
+      "type": "color"
+    },
+    "canvas": {
+      "value": "{Slate.1}",
+      "type": "color"
     }
   },
   "bg": {
     "canvas": {
-      "value": "{Slate.1}",
+      "value": "{brand.canvas}",
       "type": "color"
     },
     "brand": {
       "value": "{brand.defualt}",
       "type": "color"
     },
-    "brand-secondary-onHover": {
+    "secondary-onHover": {
       "value": "{brand.secondary-onHover}",
       "type": "color"
     },
@@ -76,7 +92,7 @@
       "type": "color"
     },
     "error": {
-      "value": "{Red.3}",
+      "value": "{Red.2}",
       "type": "color"
     },
     "warning": {
@@ -116,19 +132,19 @@
       "type": "color"
     },
     "onInfo": {
-      "value": "{Blue.9}",
+      "value": "{brand.info}",
       "type": "color"
     },
     "onSuccess": {
-      "value": "{Mint.9}",
+      "value": "{brand.success}",
       "type": "color"
     },
     "onError": {
-      "value": "{Red.9}",
+      "value": "{brand.error}",
       "type": "color"
     },
     "onWarning": {
-      "value": "{Orange.10}",
+      "value": "{brand.warning}",
       "type": "color"
     }
   },
