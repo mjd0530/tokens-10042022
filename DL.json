@@ -116,7 +116,7 @@
       "type": "color"
     },
     "brand": {
-      "value": "{brand.defualt}",
+      "value": "{brand.onHover}",
       "type": "color"
     },
     "onSecondary": {
