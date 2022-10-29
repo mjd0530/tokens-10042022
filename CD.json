@@ -40,6 +40,10 @@
     "alpha-lighter": {
       "value": "{Indigo.Alpha.2}",
       "type": "color"
+    },
+    "info": {
+      "value": "{Blue.9}",
+      "type": "color"
     }
   },
   "bg": {

@@ -55,6 +55,10 @@
       "value": "{brand.defualt}",
       "type": "color"
     },
+    "brand-secondary-onHover": {
+      "value": "{brand.Secondary-onHover}",
+      "type": "color"
+    },
     "onHover": {
       "value": "{brand.onHover}",
       "type": "color"
@@ -63,8 +67,20 @@
       "value": "{brand.secondary}",
       "type": "color"
     },
-    "brand-secondary-onHover": {
-      "value": "{brand.Secondary-onHover}",
+    "info": {
+      "value": "{Blue.3}",
+      "type": "color"
+    },
+    "success": {
+      "value": "{Mint.4}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{Red.3}",
+      "type": "color"
+    },
+    "warning": {
+      "value": "{Orange.3}",
       "type": "color"
     },
     "brand-alpha": {
@@ -74,7 +90,7 @@
       }
     }
   },
-  "text": {
+  "fg": {
     "default": {
       "value": "{Mauve.12}",
       "type": "color"
@@ -97,6 +113,22 @@
     },
     "lightest": {
       "value": "{Slate.11}",
+      "type": "color"
+    },
+    "onInfo": {
+      "value": "{Blue.9}",
+      "type": "color"
+    },
+    "onSuccess": {
+      "value": "{Mint.9}",
+      "type": "color"
+    },
+    "onError": {
+      "value": "{Red.9}",
+      "type": "color"
+    },
+    "onWarning": {
+      "value": "{Orange.10}",
       "type": "color"
     }
   },
