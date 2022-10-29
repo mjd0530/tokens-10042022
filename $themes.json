@@ -22,7 +22,8 @@
       "cake core dark": "disabled",
       "CL": "disabled",
       "CD": "disabled",
-      "DD": "disabled"
+      "DD": "disabled",
+      "DL": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -49,7 +50,8 @@
       "cake core dark": "disabled",
       "CL": "disabled",
       "CD": "disabled",
-      "DD": "disabled"
+      "DD": "disabled",
+      "DL": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -76,7 +78,8 @@
       "cake core dark": "disabled",
       "CL": "disabled",
       "CD": "disabled",
-      "DD": "disabled"
+      "DD": "disabled",
+      "DL": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -103,7 +106,8 @@
       "cake core dark": "disabled",
       "CL": "disabled",
       "CD": "disabled",
-      "DD": "disabled"
+      "DD": "disabled",
+      "DL": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -130,7 +134,8 @@
       "cake core dark": "disabled",
       "CL": "disabled",
       "CD": "disabled",
-      "DD": "disabled"
+      "DD": "disabled",
+      "DL": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -157,7 +162,8 @@
       "cake core dark": "disabled",
       "CL": "disabled",
       "CD": "disabled",
-      "DD": "disabled"
+      "DD": "disabled",
+      "DL": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -184,7 +190,8 @@
       "cake core dark": "disabled",
       "CL": "disabled",
       "CD": "disabled",
-      "DD": "disabled"
+      "DD": "disabled",
+      "DL": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -211,7 +218,8 @@
       "cake core dark": "disabled",
       "CL": "disabled",
       "CD": "disabled",
-      "DD": "disabled"
+      "DD": "disabled",
+      "DL": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -238,7 +246,8 @@
       "cake core dark": "disabled",
       "CL": "disabled",
       "CD": "source",
-      "DD": "disabled"
+      "DD": "disabled",
+      "DL": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -265,7 +274,8 @@
       "cake core dark": "disabled",
       "CL": "source",
       "CD": "disabled",
-      "DD": "disabled"
+      "DD": "disabled",
+      "DL": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -292,7 +302,37 @@
       "Radix core": "disabled",
       "Radix core light": "disabled",
       "Radix core dark": "enabled",
-      "DD": "source"
+      "DD": "source",
+      "DL": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "a03af46c8fca826eb75d7241d94185c8f3f1823e",
+    "name": "DL",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "cake core light": "disabled",
+      "cake core dark": "disabled",
+      "ant light": "disabled",
+      "ant dark": "disabled",
+      "A": "disabled",
+      "B": "disabled",
+      "CL": "disabled",
+      "CD": "disabled",
+      "DD": "disabled",
+      "A_whct": "disabled",
+      "whct_desert": "disabled",
+      "whct_night sky": "disabled",
+      "whct_dusk": "disabled",
+      "whct_aquatic": "disabled",
+      "Tailwind core": "disabled",
+      "Material core": "disabled",
+      "Radix core": "disabled",
+      "Radix core light": "enabled",
+      "Radix core dark": "disabled",
+      "C": "disabled",
+      "DL": "source"
     },
     "$figmaStyleReferences": {}
   }

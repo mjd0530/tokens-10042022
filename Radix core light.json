@@ -1300,55 +1300,53 @@
     }
   },
   "Orange": {
-    "Light": {
-      "1": {
-        "value": "#fefcfb",
-        "type": "color"
-      },
-      "2": {
-        "value": "#fef8f4",
-        "type": "color"
-      },
-      "3": {
-        "value": "#fff1e7",
-        "type": "color"
-      },
-      "4": {
-        "value": "#ffe8d7",
-        "type": "color"
-      },
-      "5": {
-        "value": "#ffdcc3",
-        "type": "color"
-      },
-      "6": {
-        "value": "#ffcca7",
-        "type": "color"
-      },
-      "7": {
-        "value": "#ffb381",
-        "type": "color"
-      },
-      "8": {
-        "value": "#fa934e",
-        "type": "color"
-      },
-      "9": {
-        "value": "#f76808",
-        "type": "color"
-      },
-      "10": {
-        "value": "#ed5f00",
-        "type": "color"
-      },
-      "11": {
-        "value": "#bd4b00",
-        "type": "color"
-      },
-      "12": {
-        "value": "#451e11",
-        "type": "color"
-      }
+    "1": {
+      "value": "#fefcfb",
+      "type": "color"
+    },
+    "2": {
+      "value": "#fef8f4",
+      "type": "color"
+    },
+    "3": {
+      "value": "#fff1e7",
+      "type": "color"
+    },
+    "4": {
+      "value": "#ffe8d7",
+      "type": "color"
+    },
+    "5": {
+      "value": "#ffdcc3",
+      "type": "color"
+    },
+    "6": {
+      "value": "#ffcca7",
+      "type": "color"
+    },
+    "7": {
+      "value": "#ffb381",
+      "type": "color"
+    },
+    "8": {
+      "value": "#fa934e",
+      "type": "color"
+    },
+    "9": {
+      "value": "#f76808",
+      "type": "color"
+    },
+    "10": {
+      "value": "#ed5f00",
+      "type": "color"
+    },
+    "11": {
+      "value": "#bd4b00",
+      "type": "color"
+    },
+    "12": {
+      "value": "#451e11",
+      "type": "color"
     },
     "Alpha": {
       "1": {
