@@ -17,6 +17,10 @@
       "value": "{Indigo.10}",
       "type": "color"
     },
+    "alpha-light": {
+      "value": "{Indigo.Alpha.2}",
+      "type": "color"
+    },
     "alpha-lightest": {
       "value": "{Indigo.Alpha.1}",
       "type": "color"
@@ -26,11 +30,11 @@
       "type": "color"
     },
     "secondary": {
-      "value": "{Slate.4}",
+      "value": "{Slate.3}",
       "type": "color"
     },
     "Secondary-onHover": {
-      "value": "{Slate.6}",
+      "value": "{Slate.5}",
       "type": "color"
     },
     "onSecondary": {
@@ -65,7 +69,7 @@
     },
     "brand-alpha": {
       "lightest": {
-        "value": "{Indigo.Alpha.2}",
+        "value": "{brand.alpha-light}",
         "type": "color"
       }
     }

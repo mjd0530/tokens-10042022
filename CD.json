@@ -26,7 +26,7 @@
       "type": "color"
     },
     "secondary": {
-      "value": "{Slate.4}",
+      "value": "{Slate.3}",
       "type": "color"
     },
     "Secondary-onHover": {
@@ -35,6 +35,10 @@
     },
     "onSecondary": {
       "value": "{Gray.12}",
+      "type": "color"
+    },
+    "alpha-lighter": {
+      "value": "{Indigo.Alpha.2}",
       "type": "color"
     }
   },
@@ -65,7 +69,7 @@
     },
     "brand-alpha": {
       "lightest": {
-        "value": "{Indigo.Alpha.2}",
+        "value": "{brand.alpha-lighter}",
         "type": "color"
       }
     }
