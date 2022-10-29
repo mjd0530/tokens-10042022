@@ -25,7 +25,7 @@
       "type": "color"
     },
     "onFocus": {
-      "value": "{Cyan.Alpha.6}",
+      "value": "{Cyan.Alpha.8}",
       "type": "color",
       "description": "Use for input and button focus definitions"
     },
@@ -124,7 +124,7 @@
       "type": "color"
     },
     "onError": {
-      "value": "{Red.9}",
+      "value": "{brand.error}",
       "type": "color"
     },
     "onWarning": {
@@ -137,7 +137,7 @@
       "x": "0",
       "y": "0",
       "blur": "0",
-      "spread": "3",
+      "spread": "2",
       "color": "{brand.onFocus}",
       "type": "dropShadow"
     },
@@ -158,6 +158,14 @@
     },
     "error": {
       "value": "{brand.error}",
+      "type": "color"
+    },
+    "onFocus": {
+      "value": "{brand.onHover}",
+      "type": "color"
+    },
+    "onHover": {
+      "value": "{brand.onHover}",
       "type": "color"
     }
   },
