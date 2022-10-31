@@ -92,11 +92,11 @@
       "type": "color"
     },
     "success": {
-      "value": "{Mint.4}",
+      "value": "{Mint.3}",
       "type": "color"
     },
     "error": {
-      "value": "{Red.2}",
+      "value": "{Red.3}",
       "type": "color"
     },
     "warning": {
