@@ -14,9 +14,7 @@
       "core light": "disabled",
       "core dark": "enabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled",
-      "CL": "disabled",
-      "CD": "disabled"
+      "MUI_core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -35,9 +33,7 @@
       "core light": "enabled",
       "core dark": "disabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled",
-      "CL": "disabled",
-      "CD": "disabled"
+      "MUI_core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -56,9 +52,7 @@
       "core light": "enabled",
       "core dark": "disabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled",
-      "CL": "disabled",
-      "CD": "disabled"
+      "MUI_core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -77,9 +71,7 @@
       "core light": "disabled",
       "core dark": "enabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled",
-      "CL": "disabled",
-      "CD": "disabled"
+      "MUI_core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -98,9 +90,7 @@
       "core light": "disabled",
       "core dark": "disabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled",
-      "CL": "disabled",
-      "CD": "disabled"
+      "MUI_core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -119,9 +109,7 @@
       "core light": "disabled",
       "core dark": "disabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled",
-      "CL": "disabled",
-      "CD": "disabled"
+      "MUI_core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -140,9 +128,7 @@
       "core light": "disabled",
       "core dark": "disabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled",
-      "CL": "disabled",
-      "CD": "disabled"
+      "MUI_core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -161,9 +147,7 @@
       "core light": "disabled",
       "core dark": "disabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled",
-      "CL": "disabled",
-      "CD": "disabled"
+      "MUI_core": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -185,9 +169,7 @@
       "ant dark": "disabled",
       "ant light": "disabled",
       "chakra": "disabled",
-      "MUI_core": "enabled",
-      "CL": "disabled",
-      "CD": "source"
+      "MUI_core": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -209,9 +191,7 @@
       "ant dark": "disabled",
       "ant light": "disabled",
       "chakra": "disabled",
-      "MUI_core": "enabled",
-      "CL": "source",
-      "CD": "disabled"
+      "MUI_core": "enabled"
     },
     "$figmaStyleReferences": {
       "Typography.H1": "S:68a876b07fb6b2e35a5d39ae8d839f23d750db96,",

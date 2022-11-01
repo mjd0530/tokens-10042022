@@ -14,8 +14,6 @@
     "ant dark",
     "ant light",
     "chakra",
-    "MUI_core",
-    "CL",
-    "CD"
+    "MUI_core"
   ]
 }
