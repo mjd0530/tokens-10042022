@@ -19,7 +19,7 @@
     },
     "Primary": {
       "Main": {
-        "value": "#1976d2",
+        "value": "{Blue.800}",
         "type": "color",
         "description": "Reflects the Primary/Main variable from the theme object"
       },
