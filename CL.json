@@ -603,16 +603,6 @@
         "50p": {
           "value": "#f4433680",
           "type": "color"
-        },
-        "160p": {
-          "value": "rgba(251, 180, 175, 1)",
-          "type": "color",
-          "description": "Used for Alert content. The token represents 60% #000 on top of the Error/Main token"
-        },
-        "190p": {
-          "value": "rgba(25, 7, 6, 1)",
-          "type": "color",
-          "description": "Used for Alert background. The token represents 90% #FFF on top of the Error/Main token"
         }
       }
     },
@@ -649,14 +639,6 @@
         },
         "50p": {
           "value": "#ffa72680",
-          "type": "color"
-        },
-        "160p": {
-          "value": "rgba(255, 220, 168, 1)",
-          "type": "color"
-        },
-        "190p": {
-          "value": "rgba(26, 17, 4, 1)",
           "type": "color"
         }
       }
@@ -695,14 +677,6 @@
         "50p": {
           "value": "#0288d180",
           "type": "color"
-        },
-        "160p": {
-          "value": "rgba(255, 255, 255, 0.6)",
-          "type": "color"
-        },
-        "190p": {
-          "value": "rgba(4, 19, 25, 1)",
-          "type": "color"
         }
       }
     },
@@ -739,14 +713,6 @@
         },
         "50p": {
           "value": "#66bb6a80",
-          "type": "color"
-        },
-        "160p": {
-          "value": "rgba(194, 228, 195, 1)",
-          "type": "color"
-        },
-        "190p": {
-          "value": "rgba(10, 19, 11, 1)",
           "type": "color"
         }
       }

@@ -14,7 +14,9 @@
       "core light": "disabled",
       "core dark": "enabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled"
+      "MUI_core": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -33,7 +35,9 @@
       "core light": "enabled",
       "core dark": "disabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled"
+      "MUI_core": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -52,7 +56,9 @@
       "core light": "enabled",
       "core dark": "disabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled"
+      "MUI_core": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -71,7 +77,9 @@
       "core light": "disabled",
       "core dark": "enabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled"
+      "MUI_core": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -90,7 +98,9 @@
       "core light": "disabled",
       "core dark": "disabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled"
+      "MUI_core": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -109,7 +119,9 @@
       "core light": "disabled",
       "core dark": "disabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled"
+      "MUI_core": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -128,7 +140,9 @@
       "core light": "disabled",
       "core dark": "disabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled"
+      "MUI_core": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -147,7 +161,33 @@
       "core light": "disabled",
       "core dark": "disabled",
       "Mike Test": "disabled",
-      "MUI_core": "disabled"
+      "MUI_core": "disabled",
+      "CL": "disabled",
+      "CD": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "bcca737e238250f8a81541cc3fd827be200f34e4",
+    "name": "CD",
+    "selectedTokenSets": {
+      "core": "disabled",
+      "core light": "disabled",
+      "core dark": "disabled",
+      "A": "disabled",
+      "A_whct": "disabled",
+      "B": "disabled",
+      "whct_desert": "disabled",
+      "whct_night sky": "disabled",
+      "whct_dusk": "disabled",
+      "whct_aquatic": "disabled",
+      "Mike Test": "disabled",
+      "ant dark": "disabled",
+      "ant light": "disabled",
+      "chakra": "disabled",
+      "MUI_core": "enabled",
+      "CL": "disabled",
+      "CD": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -169,7 +209,9 @@
       "ant dark": "disabled",
       "ant light": "disabled",
       "chakra": "disabled",
-      "MUI_core": "enabled"
+      "MUI_core": "enabled",
+      "CL": "source",
+      "CD": "disabled"
     },
     "$figmaStyleReferences": {
       "Typography.H1": "S:68a876b07fb6b2e35a5d39ae8d839f23d750db96,",
@@ -619,7 +661,9 @@
       "Elevation.23": "S:d6b12221622b149e49b8d1bf9811b0a2fa036017,",
       "Elevation.24": "S:3c47ee65fda9c01fbec9181861aec8785bc84673,",
       "Elevation.Outlined Light": "S:1e223a998120c2d3426a66e25d80ba505421ff2f,",
-      "Elevation.Outlined Dark": "S:714800ced3ba683d009c300adf00caba800f768b,"
+      "Elevation.Outlined Dark": "S:714800ced3ba683d009c300adf00caba800f768b,",
+      "Light.Error.Shades.160p": "S:46173a1f3f11b13349a31f197830ab735d4b65b7,",
+      "Light.Error.Shades.190p": "S:e446767c692c8c7cb59be656124a584f5c5b0298,"
     }
   }
 ]
