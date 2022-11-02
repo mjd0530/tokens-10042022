@@ -19,7 +19,7 @@
     },
     "Primary": {
       "Main": {
-        "value": "{Blue.800}",
+        "value": "{Indigo.A400}",
         "type": "color",
         "description": "Reflects the Primary/Main variable from the theme object"
       },
@@ -459,7 +459,7 @@
     },
     "Primary": {
       "Main": {
-        "value": "#90caf9",
+        "value": "{Indigo.A100}",
         "type": "color"
       },
       "Dark": {
